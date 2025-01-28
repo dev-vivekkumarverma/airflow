@@ -4,3 +4,6 @@
 
 # ignore the virtual env 
 *venv/*
+
+# ignore all the logs of airflow
+logs*

@@ -111,3 +111,486 @@
 [2025-01-28T11:51:34.275+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:34.275+0530] {dag.py:3239} INFO - Sync 1 DAGs
 [2025-01-28T11:51:34.284+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:34.284+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
 [2025-01-28T11:51:34.299+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.057 seconds
+[2025-01-28T12:00:58.834+0530] {processor.py:186} INFO - Started process (PID=22775) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:00:58.835+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:00:58.837+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:00:58.837+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:00:58.852+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:00:58.948+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:00:58.948+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:00:58.956+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:00:58.956+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:00:58.981+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.152 seconds
+[2025-01-28T12:01:53.199+0530] {processor.py:186} INFO - Started process (PID=23205) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:01:53.212+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:01:53.215+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:01:53.215+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:01:53.228+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:01:53.239+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:01:53.239+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:01:53.248+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:01:53.248+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:01:53.262+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.067 seconds
+[2025-01-28T12:02:45.718+0530] {processor.py:186} INFO - Started process (PID=23555) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:02:45.720+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:02:45.722+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:02:45.722+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:02:45.738+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:02:45.749+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:02:45.749+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:02:45.759+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:02:45.758+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:02:45.773+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.059 seconds
+[2025-01-28T12:03:43.222+0530] {processor.py:186} INFO - Started process (PID=24409) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:03:43.234+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:03:43.236+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:03:43.236+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:03:43.252+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:03:43.267+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:03:43.266+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:03:43.282+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:03:43.281+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:03:43.302+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.086 seconds
+[2025-01-28T12:04:30.665+0530] {processor.py:186} INFO - Started process (PID=24697) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:04:30.666+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:04:30.668+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:04:30.667+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:04:30.681+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:04:30.692+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:04:30.692+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:04:30.701+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:04:30.701+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:04:30.714+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.054 seconds
+[2025-01-28T12:05:20.425+0530] {processor.py:186} INFO - Started process (PID=25164) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:05:20.426+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:05:20.428+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:05:20.428+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:05:20.442+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:05:20.453+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:05:20.453+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:05:20.461+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:05:20.461+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:05:20.474+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.054 seconds
+[2025-01-28T12:06:07.160+0530] {processor.py:186} INFO - Started process (PID=25425) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:06:07.172+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:06:07.175+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:06:07.174+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:06:07.189+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:06:07.201+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:06:07.200+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:06:07.209+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:06:07.209+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:06:07.223+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.068 seconds
+[2025-01-28T12:06:55.521+0530] {processor.py:186} INFO - Started process (PID=25630) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:06:55.523+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:06:55.524+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:06:55.524+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:06:55.538+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:06:55.549+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:06:55.549+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:06:55.558+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:06:55.558+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:06:55.572+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.055 seconds
+[2025-01-28T12:07:44.607+0530] {processor.py:186} INFO - Started process (PID=25905) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:07:44.619+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:07:44.621+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:07:44.620+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:07:44.635+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:07:44.646+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:07:44.645+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:07:44.654+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:07:44.654+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:07:44.667+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.066 seconds
+[2025-01-28T12:08:37.095+0530] {processor.py:186} INFO - Started process (PID=26203) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:08:37.096+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:08:37.098+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:08:37.098+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:08:37.113+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:08:37.125+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:08:37.125+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:08:37.134+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:08:37.134+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:08:37.148+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.057 seconds
+[2025-01-28T12:09:27.342+0530] {processor.py:186} INFO - Started process (PID=26690) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:09:27.354+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:09:27.357+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:09:27.356+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:09:27.370+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:09:27.381+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:09:27.381+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:09:27.390+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:09:27.389+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:09:27.403+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.066 seconds
+[2025-01-28T12:10:17.610+0530] {processor.py:186} INFO - Started process (PID=27126) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:10:17.622+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:10:17.625+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:10:17.624+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:10:17.639+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:10:17.650+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:10:17.650+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:10:17.658+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:10:17.658+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:10:17.672+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.067 seconds
+[2025-01-28T12:11:09.568+0530] {processor.py:186} INFO - Started process (PID=27388) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:11:09.580+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:11:09.583+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:11:09.583+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:11:09.599+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:11:09.613+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:11:09.613+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:11:09.621+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:11:09.621+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:11:09.644+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.081 seconds
+[2025-01-28T12:11:59.977+0530] {processor.py:186} INFO - Started process (PID=27801) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:11:59.989+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:11:59.991+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:11:59.991+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:12:00.006+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:12:00.019+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:12:00.019+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:12:00.028+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:12:00.028+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:12:00.044+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.072 seconds
+[2025-01-28T12:12:51.224+0530] {processor.py:186} INFO - Started process (PID=28180) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:12:51.236+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:12:51.238+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:12:51.238+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:12:51.252+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:12:51.263+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:12:51.263+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:12:51.271+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:12:51.271+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:12:51.285+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.066 seconds
+[2025-01-28T12:13:44.321+0530] {processor.py:186} INFO - Started process (PID=28455) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:13:44.322+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:13:44.324+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:13:44.324+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:13:44.338+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:13:44.349+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:13:44.348+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:13:44.357+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:13:44.356+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:13:44.370+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.054 seconds
+[2025-01-28T12:14:32.898+0530] {processor.py:186} INFO - Started process (PID=29137) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:14:32.910+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:14:32.913+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:14:32.912+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:14:32.926+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:14:32.937+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:14:32.937+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:14:32.945+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:14:32.945+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:14:32.959+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.065 seconds
+[2025-01-28T12:15:24.350+0530] {processor.py:186} INFO - Started process (PID=29682) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:15:24.362+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:15:24.365+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:15:24.364+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:15:24.378+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:15:24.389+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:15:24.389+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:15:24.397+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:15:24.397+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:15:24.411+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.066 seconds
+[2025-01-28T12:16:15.647+0530] {processor.py:186} INFO - Started process (PID=30164) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:16:15.659+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:16:15.662+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:16:15.661+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:16:15.675+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:16:15.686+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:16:15.686+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:16:15.694+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:16:15.694+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:16:15.708+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.065 seconds
+[2025-01-28T12:17:07.343+0530] {processor.py:186} INFO - Started process (PID=30328) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:17:07.356+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:17:07.358+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:17:07.357+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:17:07.372+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:17:07.383+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:17:07.383+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:17:07.391+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:17:07.391+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:17:07.405+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.066 seconds
+[2025-01-28T12:17:57.343+0530] {processor.py:186} INFO - Started process (PID=30543) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:17:57.344+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:17:57.346+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:17:57.346+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:17:57.360+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:17:57.371+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:17:57.371+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:17:57.379+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:17:57.379+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:17:57.393+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.054 seconds
+[2025-01-28T12:18:47.596+0530] {processor.py:186} INFO - Started process (PID=30648) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:18:47.597+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:18:47.599+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:18:47.599+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:18:47.613+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:18:47.624+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:18:47.623+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:18:47.632+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:18:47.632+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:18:47.646+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.054 seconds
+[2025-01-28T12:19:38.980+0530] {processor.py:186} INFO - Started process (PID=30834) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:19:38.993+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:19:38.995+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:19:38.995+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:19:39.009+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:19:39.020+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:19:39.020+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:19:39.028+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:19:39.028+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:19:39.041+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.066 seconds
+[2025-01-28T12:20:31.093+0530] {processor.py:186} INFO - Started process (PID=31002) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:20:31.105+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:20:31.107+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:20:31.107+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:20:31.121+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:20:31.132+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:20:31.132+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:20:31.140+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:20:31.140+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:20:31.155+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.067 seconds
+[2025-01-28T12:21:22.488+0530] {processor.py:186} INFO - Started process (PID=31219) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:21:22.501+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:21:22.502+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:21:22.502+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:21:22.516+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:21:22.527+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:21:22.527+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:21:22.535+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:21:22.535+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:21:22.549+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.065 seconds
+[2025-01-28T12:22:11.518+0530] {processor.py:186} INFO - Started process (PID=31376) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:22:11.530+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:22:11.532+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:22:11.532+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:22:11.546+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:22:11.557+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:22:11.557+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:22:11.565+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:22:11.565+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:22:11.579+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.066 seconds
+[2025-01-28T12:23:00.591+0530] {processor.py:186} INFO - Started process (PID=31540) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:23:00.603+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:23:00.605+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:23:00.605+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:23:00.619+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:23:00.630+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:23:00.630+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:23:00.638+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:23:00.638+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:23:00.653+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.066 seconds
+[2025-01-28T12:23:47.999+0530] {processor.py:186} INFO - Started process (PID=31640) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:23:48.011+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:23:48.014+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:23:48.013+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:23:48.027+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:23:48.038+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:23:48.038+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:23:48.046+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:23:48.046+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:23:48.060+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.066 seconds
+[2025-01-28T12:24:38.398+0530] {processor.py:186} INFO - Started process (PID=31882) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:24:38.399+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:24:38.401+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:24:38.401+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:24:38.415+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:24:38.426+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:24:38.426+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:24:38.435+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:24:38.435+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:24:38.449+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.055 seconds
+[2025-01-28T12:25:30.941+0530] {processor.py:186} INFO - Started process (PID=32252) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:25:30.943+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:25:30.945+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:25:30.945+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:25:30.963+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:25:30.977+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:25:30.976+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:25:30.985+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:25:30.985+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:25:31.004+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.069 seconds
+[2025-01-28T12:26:23.625+0530] {processor.py:186} INFO - Started process (PID=32469) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:26:23.637+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:26:23.639+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:26:23.639+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:26:23.662+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:26:23.675+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:26:23.675+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:26:23.685+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:26:23.685+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:26:23.702+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.084 seconds
+[2025-01-28T12:27:14.021+0530] {processor.py:186} INFO - Started process (PID=32632) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:27:14.033+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:27:14.035+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:27:14.035+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:27:14.055+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:27:14.069+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:27:14.069+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:27:14.077+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:27:14.077+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:27:14.094+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.078 seconds
+[2025-01-28T12:28:08.428+0530] {processor.py:186} INFO - Started process (PID=32798) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:28:08.441+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:28:08.443+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:28:08.443+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:28:08.460+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:28:08.474+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:28:08.474+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:28:08.485+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:28:08.485+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:28:08.504+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.081 seconds
+[2025-01-28T12:28:59.806+0530] {processor.py:186} INFO - Started process (PID=32966) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:28:59.818+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:28:59.821+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:28:59.820+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:28:59.840+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:28:59.852+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:28:59.852+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:28:59.860+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:28:59.860+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:28:59.875+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.074 seconds
+[2025-01-28T12:29:51.247+0530] {processor.py:186} INFO - Started process (PID=33111) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:29:51.259+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:29:51.261+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:29:51.260+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:29:51.280+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:29:51.297+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:29:51.297+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:29:51.306+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:29:51.305+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:29:51.321+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.081 seconds
+[2025-01-28T12:30:45.196+0530] {processor.py:186} INFO - Started process (PID=33283) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:30:45.208+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:30:45.210+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:30:45.210+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:30:45.225+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:30:45.238+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:30:45.238+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:30:45.247+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:30:45.247+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:30:45.265+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.074 seconds
+[2025-01-28T12:31:35.655+0530] {processor.py:186} INFO - Started process (PID=33506) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:31:35.667+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:31:35.669+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:31:35.668+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:31:35.685+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:31:35.696+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:31:35.696+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:31:35.710+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:31:35.710+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:31:35.725+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.078 seconds
+[2025-01-28T12:32:28.489+0530] {processor.py:186} INFO - Started process (PID=33688) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:32:28.501+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:32:28.503+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:32:28.503+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:32:28.520+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:32:28.533+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:32:28.532+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:32:28.546+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:32:28.546+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:32:28.563+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.079 seconds
+[2025-01-28T12:33:21.891+0530] {processor.py:186} INFO - Started process (PID=33885) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:33:21.903+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:33:21.906+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:33:21.905+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:33:21.920+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:33:21.931+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:33:21.931+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:33:21.939+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:33:21.939+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:33:21.953+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.067 seconds
+[2025-01-28T12:34:16.335+0530] {processor.py:186} INFO - Started process (PID=34068) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:34:16.337+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:34:16.342+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:34:16.342+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:34:16.360+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:34:16.377+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:34:16.376+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:34:16.388+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:34:16.388+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:34:16.408+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.077 seconds
+[2025-01-28T12:35:12.348+0530] {processor.py:186} INFO - Started process (PID=34276) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:35:12.360+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:35:12.362+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:35:12.362+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:35:12.378+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:35:12.392+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:35:12.391+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:35:12.400+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:35:12.399+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:35:12.415+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.072 seconds
+[2025-01-28T12:36:02.526+0530] {processor.py:186} INFO - Started process (PID=34491) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:36:02.539+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:36:02.541+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:36:02.541+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:36:02.558+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:36:02.571+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:36:02.571+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:36:02.580+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:36:02.580+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:36:02.594+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.072 seconds
+[2025-01-28T12:36:57.483+0530] {processor.py:186} INFO - Started process (PID=34669) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:36:57.484+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:36:57.488+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:36:57.487+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:36:57.506+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:36:57.519+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:36:57.519+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:36:57.528+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:36:57.528+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:36:57.545+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.067 seconds
+[2025-01-28T12:37:48.494+0530] {processor.py:186} INFO - Started process (PID=34782) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:37:48.506+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:37:48.508+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:37:48.508+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:37:48.525+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:37:48.538+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:37:48.538+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:37:48.547+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:37:48.547+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:37:48.561+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.072 seconds
+[2025-01-28T12:38:37.634+0530] {processor.py:186} INFO - Started process (PID=34946) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:38:37.646+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:38:37.648+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:38:37.648+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:38:37.667+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:38:37.680+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:38:37.680+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:38:37.691+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:38:37.691+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:38:37.705+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.076 seconds
+[2025-01-28T12:39:29.524+0530] {processor.py:186} INFO - Started process (PID=35136) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:39:29.536+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:39:29.538+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:39:29.538+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:39:29.556+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:39:29.570+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:39:29.569+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:39:29.579+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:39:29.578+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:39:29.599+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.080 seconds
+[2025-01-28T12:40:18.642+0530] {processor.py:186} INFO - Started process (PID=35319) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:40:18.655+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:40:18.657+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:40:18.656+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:40:18.670+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:40:18.681+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:40:18.681+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:40:18.689+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:40:18.689+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:40:18.703+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.066 seconds
+[2025-01-28T12:41:08.415+0530] {processor.py:186} INFO - Started process (PID=35707) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:41:08.416+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:41:08.417+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:41:08.417+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:41:08.432+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:41:08.442+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:41:08.442+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:41:08.451+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:41:08.450+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:41:08.464+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.054 seconds
+[2025-01-28T12:41:57.536+0530] {processor.py:186} INFO - Started process (PID=36158) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:41:57.549+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:41:57.551+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:41:57.551+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:41:57.565+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:41:57.584+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:41:57.584+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:41:57.598+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:41:57.597+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:41:57.618+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.087 seconds
+[2025-01-28T12:42:48.955+0530] {processor.py:186} INFO - Started process (PID=36537) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:42:48.956+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:42:48.958+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:42:48.958+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:42:48.978+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:42:48.991+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:42:48.991+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:42:49.000+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:42:49.000+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:42:49.017+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.068 seconds
+[2025-01-28T12:43:41.497+0530] {processor.py:186} INFO - Started process (PID=36947) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:43:41.509+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:43:41.511+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:43:41.511+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:43:41.525+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:43:41.536+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:43:41.536+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:43:41.544+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:43:41.544+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:43:41.560+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.068 seconds
+[2025-01-28T12:44:32.287+0530] {processor.py:186} INFO - Started process (PID=37197) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:44:32.300+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:44:32.302+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:44:32.301+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:44:32.317+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:44:32.328+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:44:32.327+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:44:32.336+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:44:32.336+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:44:32.350+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.067 seconds
+[2025-01-28T12:45:20.399+0530] {processor.py:186} INFO - Started process (PID=37427) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:45:20.400+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:45:20.402+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:45:20.402+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:45:20.416+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:45:20.427+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:45:20.427+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:45:20.435+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:45:20.435+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:45:20.449+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.054 seconds
+[2025-01-28T12:46:07.787+0530] {processor.py:186} INFO - Started process (PID=37825) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:46:07.788+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:46:07.789+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:46:07.789+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:46:07.803+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:46:07.815+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:46:07.815+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:46:07.823+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:46:07.823+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:46:07.837+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.055 seconds
+[2025-01-28T12:46:59.911+0530] {processor.py:186} INFO - Started process (PID=38043) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:46:59.923+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:46:59.925+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:46:59.925+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:46:59.939+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:46:59.950+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:46:59.950+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:46:59.959+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:46:59.959+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:46:59.973+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.067 seconds
+[2025-01-28T12:47:53.728+0530] {processor.py:186} INFO - Started process (PID=38233) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:47:53.740+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:47:53.743+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:47:53.742+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:47:53.757+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:47:53.769+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:47:53.768+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:47:53.777+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:47:53.777+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:47:53.791+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.067 seconds
+[2025-01-28T12:48:43.713+0530] {processor.py:186} INFO - Started process (PID=38499) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:48:43.714+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:48:43.716+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:48:43.715+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:48:43.730+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:48:43.742+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:48:43.742+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:48:43.750+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:48:43.750+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:48:43.764+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.056 seconds
+[2025-01-28T12:49:37.380+0530] {processor.py:186} INFO - Started process (PID=38759) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:49:37.381+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:49:37.383+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:49:37.383+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:49:37.398+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:49:37.410+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:49:37.410+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:49:37.419+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:49:37.418+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:49:37.434+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.059 seconds
+[2025-01-28T12:50:30.222+0530] {processor.py:186} INFO - Started process (PID=39012) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:50:30.234+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:50:30.237+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:50:30.236+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:50:30.251+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:50:30.262+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:50:30.262+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:50:30.270+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:50:30.270+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:50:30.284+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.067 seconds
+[2025-01-28T12:51:18.327+0530] {processor.py:186} INFO - Started process (PID=39293) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:51:18.340+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:51:18.342+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:51:18.342+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:51:18.356+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:51:18.367+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:51:18.366+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:51:18.375+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:51:18.375+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:51:18.390+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.068 seconds
+[2025-01-28T12:52:12.244+0530] {processor.py:186} INFO - Started process (PID=39501) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:52:12.253+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:52:12.255+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:52:12.255+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:52:12.269+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:52:12.280+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:52:12.280+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:52:12.288+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:52:12.288+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:52:12.303+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.065 seconds
+[2025-01-28T12:53:07.334+0530] {processor.py:186} INFO - Started process (PID=39762) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:53:07.347+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:53:07.350+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:53:07.349+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:53:07.364+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:53:07.376+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:53:07.375+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:53:07.387+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:53:07.386+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:53:07.404+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.075 seconds
+[2025-01-28T12:54:00.072+0530] {processor.py:186} INFO - Started process (PID=39985) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:54:00.073+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:54:00.075+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:54:00.075+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:54:00.089+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:54:00.103+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:54:00.103+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:54:00.117+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:54:00.117+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:54:00.140+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.073 seconds
+[2025-01-28T12:54:48.992+0530] {processor.py:186} INFO - Started process (PID=40162) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:54:48.993+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:54:48.995+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:54:48.994+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:54:49.010+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:54:49.024+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:54:49.024+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:54:49.044+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:54:49.043+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:54:49.070+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.083 seconds
+[2025-01-28T12:55:39.581+0530] {processor.py:186} INFO - Started process (PID=40377) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:55:39.593+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:55:39.595+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:55:39.595+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:55:39.609+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:55:39.621+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:55:39.620+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:55:39.629+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:55:39.629+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:55:39.642+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.066 seconds
+[2025-01-28T12:56:29.693+0530] {processor.py:186} INFO - Started process (PID=40636) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:56:29.706+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:56:29.708+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:56:29.708+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:56:29.722+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:56:29.733+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:56:29.733+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:56:29.741+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:56:29.741+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:56:29.756+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.068 seconds
+[2025-01-28T12:57:21.403+0530] {processor.py:186} INFO - Started process (PID=40862) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:57:21.404+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:57:21.406+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:57:21.406+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:57:21.425+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:57:21.443+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:57:21.442+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:57:21.456+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:57:21.456+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:57:21.482+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.084 seconds
+[2025-01-28T12:58:09.418+0530] {processor.py:186} INFO - Started process (PID=41103) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:58:09.431+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:58:09.434+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:58:09.433+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:58:09.450+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:58:09.461+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:58:09.461+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:58:09.470+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:58:09.470+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:58:09.484+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.071 seconds
+[2025-01-28T12:58:58.785+0530] {processor.py:186} INFO - Started process (PID=41483) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:58:58.797+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2025-01-28T12:58:58.800+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:58:58.799+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:58:58.815+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2025-01-28T12:58:58.827+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:58:58.826+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:58:58.835+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:58:58.835+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2025-01-28T12:58:58.851+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.070 seconds

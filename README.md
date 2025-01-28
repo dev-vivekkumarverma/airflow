@@ -78,3 +78,27 @@ Login with username: admin  password: 7a4HAYQ2cmwDAHDy
 for the UI interface goto (default)
 
 http://localhost:8080 
+
+
+6. for running the airflow scheduler, run the command in another terminal 
+```sh
+airflow sheduler
+```
+
+# WORKFLOW IS SOMETHING LIKE
+
+`WORKFLOW -> DAG(when to do what) -> TASK(what to do) -> OPERATOR (how to do)`
+
+![alt workflow](./img_src/workflow.png)
+
+`DAG, tasks and operators`
+
+![alt task and operators](./img_src/task%20and%20operators.png)
+
+
+`DAG, TASK AND OPERATORs internals`
+![alt datg, tasks, operators internals](./img_src/DagtaskoperatorInternal.png)
+
+
+# `TAST LIFECYCLE`
+![alt TAST LIFECYCLE](./img_src/task%20life%20Cycle.png)

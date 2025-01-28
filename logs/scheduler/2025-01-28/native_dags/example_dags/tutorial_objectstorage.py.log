@@ -111,3 +111,486 @@
 [2025-01-28T11:51:36.812+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:36.811+0530] {dag.py:3239} INFO - Sync 1 DAGs
 [2025-01-28T11:51:36.821+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:36.820+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
 [2025-01-28T11:51:36.836+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.053 seconds
+[2025-01-28T12:01:01.553+0530] {processor.py:186} INFO - Started process (PID=22816) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:01:01.565+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:01:01.567+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:01:01.567+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:01:01.576+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:01:01.594+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:01:01.594+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:01:01.605+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:01:01.605+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:01:01.620+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.073 seconds
+[2025-01-28T12:01:56.610+0530] {processor.py:186} INFO - Started process (PID=23211) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:01:56.622+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:01:56.624+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:01:56.624+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:01:56.632+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:01:56.643+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:01:56.643+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:01:56.652+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:01:56.652+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:01:56.668+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.063 seconds
+[2025-01-28T12:02:49.123+0530] {processor.py:186} INFO - Started process (PID=23593) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:02:49.124+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:02:49.126+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:02:49.126+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:02:49.134+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:02:49.145+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:02:49.145+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:02:49.154+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:02:49.153+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:02:49.168+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.049 seconds
+[2025-01-28T12:03:46.638+0530] {processor.py:186} INFO - Started process (PID=24416) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:03:46.651+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:03:46.655+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:03:46.654+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:03:46.663+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:03:46.674+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:03:46.674+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:03:46.684+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:03:46.684+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:03:46.699+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.068 seconds
+[2025-01-28T12:04:34.066+0530] {processor.py:186} INFO - Started process (PID=24758) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:04:34.078+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:04:34.081+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:04:34.081+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:04:34.089+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:04:34.100+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:04:34.099+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:04:34.108+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:04:34.108+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:04:34.122+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.060 seconds
+[2025-01-28T12:05:23.140+0530] {processor.py:186} INFO - Started process (PID=25174) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:05:23.152+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:05:23.155+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:05:23.155+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:05:23.163+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:05:23.174+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:05:23.174+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:05:23.182+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:05:23.182+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:05:23.196+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.060 seconds
+[2025-01-28T12:06:09.976+0530] {processor.py:186} INFO - Started process (PID=25432) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:06:09.989+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:06:09.993+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:06:09.992+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:06:10.002+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:06:10.016+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:06:10.016+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:06:10.026+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:06:10.025+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:06:10.043+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.072 seconds
+[2025-01-28T12:06:58.388+0530] {processor.py:186} INFO - Started process (PID=25640) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:06:58.400+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:06:58.402+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:06:58.402+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:06:58.410+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:06:58.421+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:06:58.420+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:06:58.429+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:06:58.429+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:06:58.443+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.060 seconds
+[2025-01-28T12:07:47.386+0530] {processor.py:186} INFO - Started process (PID=25911) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:07:47.387+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:07:47.389+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:07:47.389+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:07:47.398+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:07:47.409+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:07:47.409+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:07:47.418+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:07:47.418+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:07:47.433+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.053 seconds
+[2025-01-28T12:08:40.506+0530] {processor.py:186} INFO - Started process (PID=26240) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:08:40.507+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:08:40.509+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:08:40.508+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:08:40.516+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:08:40.527+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:08:40.527+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:08:40.535+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:08:40.535+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:08:40.550+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.049 seconds
+[2025-01-28T12:09:30.751+0530] {processor.py:186} INFO - Started process (PID=26697) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:09:30.764+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:09:30.765+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:09:30.765+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:09:30.773+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:09:30.784+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:09:30.784+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:09:30.793+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:09:30.792+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:09:30.808+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.061 seconds
+[2025-01-28T12:10:21.019+0530] {processor.py:186} INFO - Started process (PID=27133) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:10:21.032+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:10:21.034+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:10:21.033+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:10:21.041+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:10:21.052+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:10:21.052+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:10:21.061+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:10:21.061+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:10:21.074+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.060 seconds
+[2025-01-28T12:11:12.539+0530] {processor.py:186} INFO - Started process (PID=27398) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:11:12.551+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:11:12.553+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:11:12.553+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:11:12.567+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:11:12.580+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:11:12.580+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:11:12.588+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:11:12.588+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:11:12.604+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.070 seconds
+[2025-01-28T12:12:02.438+0530] {processor.py:186} INFO - Started process (PID=27806) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:12:02.451+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:12:02.453+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:12:02.453+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:12:02.462+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:12:02.473+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:12:02.473+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:12:02.483+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:12:02.483+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:12:02.498+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.064 seconds
+[2025-01-28T12:12:54.098+0530] {processor.py:186} INFO - Started process (PID=28240) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:12:54.100+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:12:54.103+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:12:54.102+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:12:54.110+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:12:54.121+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:12:54.121+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:12:54.130+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:12:54.130+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:12:54.143+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.050 seconds
+[2025-01-28T12:13:47.050+0530] {processor.py:186} INFO - Started process (PID=28514) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:13:47.062+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:13:47.064+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:13:47.064+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:13:47.072+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:13:47.084+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:13:47.084+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:13:47.092+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:13:47.092+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:13:47.106+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.061 seconds
+[2025-01-28T12:14:35.763+0530] {processor.py:186} INFO - Started process (PID=29143) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:14:35.763+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:14:35.765+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:14:35.765+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:14:35.773+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:14:35.783+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:14:35.783+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:14:35.792+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:14:35.791+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:14:35.805+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.047 seconds
+[2025-01-28T12:15:27.209+0530] {processor.py:186} INFO - Started process (PID=29742) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:15:27.222+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:15:27.224+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:15:27.224+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:15:27.232+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:15:27.243+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:15:27.243+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:15:27.252+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:15:27.251+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:15:27.266+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.061 seconds
+[2025-01-28T12:16:18.513+0530] {processor.py:186} INFO - Started process (PID=30170) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:16:18.514+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:16:18.515+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:16:18.515+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:16:18.523+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:16:18.533+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:16:18.533+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:16:18.542+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:16:18.541+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:16:18.555+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.047 seconds
+[2025-01-28T12:17:09.910+0530] {processor.py:186} INFO - Started process (PID=30334) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:17:09.911+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:17:09.914+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:17:09.914+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:17:09.923+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:17:09.936+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:17:09.936+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:17:09.947+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:17:09.946+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:17:09.966+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.065 seconds
+[2025-01-28T12:18:00.288+0530] {processor.py:186} INFO - Started process (PID=30549) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:18:00.300+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:18:00.302+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:18:00.302+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:18:00.310+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:18:00.320+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:18:00.320+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:18:00.329+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:18:00.329+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:18:00.344+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.060 seconds
+[2025-01-28T12:18:50.864+0530] {processor.py:186} INFO - Started process (PID=30654) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:18:50.876+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:18:50.879+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:18:50.878+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:18:50.886+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:18:50.897+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:18:50.897+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:18:50.906+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:18:50.906+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:18:50.920+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.060 seconds
+[2025-01-28T12:19:41.548+0530] {processor.py:186} INFO - Started process (PID=30839) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:19:41.561+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:19:41.563+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:19:41.563+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:19:41.571+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:19:41.581+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:19:41.581+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:19:41.590+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:19:41.589+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:19:41.603+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.060 seconds
+[2025-01-28T12:20:34.500+0530] {processor.py:186} INFO - Started process (PID=31008) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:20:34.512+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:20:34.514+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:20:34.514+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:20:34.522+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:20:34.533+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:20:34.533+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:20:34.541+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:20:34.541+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:20:34.556+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.061 seconds
+[2025-01-28T12:21:25.893+0530] {processor.py:186} INFO - Started process (PID=31225) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:21:25.905+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:21:25.908+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:21:25.907+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:21:25.915+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:21:25.926+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:21:25.926+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:21:25.934+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:21:25.934+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:21:25.948+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.060 seconds
+[2025-01-28T12:22:14.386+0530] {processor.py:186} INFO - Started process (PID=31382) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:22:14.398+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:22:14.401+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:22:14.400+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:22:14.409+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:22:14.421+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:22:14.421+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:22:14.429+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:22:14.429+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:22:14.444+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.062 seconds
+[2025-01-28T12:23:03.023+0530] {processor.py:186} INFO - Started process (PID=31545) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:23:03.024+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:23:03.026+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:23:03.026+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:23:03.033+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:23:03.044+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:23:03.044+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:23:03.053+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:23:03.053+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:23:03.070+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.052 seconds
+[2025-01-28T12:23:50.865+0530] {processor.py:186} INFO - Started process (PID=31646) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:23:50.867+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:23:50.868+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:23:50.868+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:23:50.876+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:23:50.887+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:23:50.887+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:23:50.895+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:23:50.895+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:23:50.911+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.050 seconds
+[2025-01-28T12:24:41.240+0530] {processor.py:186} INFO - Started process (PID=31888) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:24:41.252+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:24:41.254+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:24:41.254+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:24:41.262+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:24:41.273+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:24:41.273+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:24:41.282+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:24:41.282+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:24:41.295+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.060 seconds
+[2025-01-28T12:25:33.790+0530] {processor.py:186} INFO - Started process (PID=32259) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:25:33.803+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:25:33.805+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:25:33.805+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:25:33.815+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:25:33.826+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:25:33.826+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:25:33.835+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:25:33.835+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:25:33.852+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.066 seconds
+[2025-01-28T12:26:25.349+0530] {processor.py:186} INFO - Started process (PID=32474) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:26:25.361+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:26:25.363+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:26:25.363+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:26:25.371+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:26:25.387+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:26:25.387+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:26:25.397+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:26:25.397+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:26:25.414+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.071 seconds
+[2025-01-28T12:27:16.738+0530] {processor.py:186} INFO - Started process (PID=32637) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:27:16.752+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:27:16.754+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:27:16.754+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:27:16.762+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:27:16.776+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:27:16.776+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:27:16.791+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:27:16.791+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:27:16.809+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.076 seconds
+[2025-01-28T12:28:11.244+0530] {processor.py:186} INFO - Started process (PID=32804) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:28:11.248+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:28:11.251+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:28:11.251+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:28:11.259+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:28:11.272+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:28:11.272+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:28:11.284+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:28:11.283+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:28:11.303+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.064 seconds
+[2025-01-28T12:29:03.257+0530] {processor.py:186} INFO - Started process (PID=32973) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:29:03.269+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:29:03.271+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:29:03.271+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:29:03.282+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:29:03.293+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:29:03.292+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:29:03.306+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:29:03.306+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:29:03.321+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.068 seconds
+[2025-01-28T12:29:54.766+0530] {processor.py:186} INFO - Started process (PID=33172) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:29:54.778+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:29:54.780+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:29:54.780+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:29:54.788+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:29:54.805+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:29:54.805+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:29:54.815+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:29:54.815+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:29:54.830+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.069 seconds
+[2025-01-28T12:30:48.059+0530] {processor.py:186} INFO - Started process (PID=33290) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:30:48.060+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:30:48.062+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:30:48.062+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:30:48.072+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:30:48.082+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:30:48.082+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:30:48.093+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:30:48.092+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:30:48.109+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.060 seconds
+[2025-01-28T12:31:39.190+0530] {processor.py:186} INFO - Started process (PID=33513) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:31:39.202+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:31:39.204+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:31:39.203+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:31:39.211+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:31:39.224+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:31:39.224+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:31:39.236+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:31:39.236+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:31:39.256+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.071 seconds
+[2025-01-28T12:32:31.184+0530] {processor.py:186} INFO - Started process (PID=33698) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:32:31.185+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:32:31.187+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:32:31.186+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:32:31.197+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:32:31.209+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:32:31.208+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:32:31.218+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:32:31.218+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:32:31.235+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.056 seconds
+[2025-01-28T12:33:25.057+0530] {processor.py:186} INFO - Started process (PID=33892) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:33:25.069+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:33:25.071+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:33:25.070+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:33:25.078+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:33:25.090+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:33:25.090+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:33:25.099+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:33:25.099+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:33:25.114+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.062 seconds
+[2025-01-28T12:34:19.626+0530] {processor.py:186} INFO - Started process (PID=34090) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:34:19.638+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:34:19.641+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:34:19.640+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:34:19.649+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:34:19.665+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:34:19.664+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:34:19.677+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:34:19.677+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:34:19.695+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.074 seconds
+[2025-01-28T12:35:15.375+0530] {processor.py:186} INFO - Started process (PID=34282) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:35:15.388+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:35:15.391+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:35:15.390+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:35:15.399+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:35:15.412+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:35:15.412+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:35:15.424+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:35:15.423+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:35:15.443+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.075 seconds
+[2025-01-28T12:36:06.054+0530] {processor.py:186} INFO - Started process (PID=34498) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:36:06.055+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:36:06.056+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:36:06.056+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:36:06.066+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:36:06.077+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:36:06.077+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:36:06.091+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:36:06.091+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:36:06.107+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.058 seconds
+[2025-01-28T12:37:00.580+0530] {processor.py:186} INFO - Started process (PID=34674) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:37:00.592+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:37:00.594+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:37:00.594+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:37:00.604+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:37:00.621+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:37:00.621+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:37:00.633+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:37:00.633+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:37:00.650+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.075 seconds
+[2025-01-28T12:37:52.014+0530] {processor.py:186} INFO - Started process (PID=34788) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:37:52.015+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:37:52.017+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:37:52.017+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:37:52.025+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:37:52.039+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:37:52.038+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:37:52.052+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:37:52.052+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:37:52.068+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.060 seconds
+[2025-01-28T12:38:41.150+0530] {processor.py:186} INFO - Started process (PID=34954) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:38:41.162+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:38:41.164+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:38:41.164+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:38:41.173+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:38:41.184+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:38:41.184+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:38:41.199+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:38:41.198+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:38:41.216+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.070 seconds
+[2025-01-28T12:39:33.039+0530] {processor.py:186} INFO - Started process (PID=35157) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:39:33.051+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:39:33.053+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:39:33.052+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:39:33.060+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:39:33.074+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:39:33.074+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:39:33.086+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:39:33.085+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:39:33.101+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.067 seconds
+[2025-01-28T12:40:20.881+0530] {processor.py:186} INFO - Started process (PID=35325) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:40:20.893+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:40:20.896+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:40:20.895+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:40:20.905+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:40:20.916+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:40:20.916+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:40:20.926+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:40:20.926+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:40:20.941+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.064 seconds
+[2025-01-28T12:41:11.283+0530] {processor.py:186} INFO - Started process (PID=35769) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:41:11.296+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:41:11.299+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:41:11.298+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:41:11.308+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:41:11.323+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:41:11.323+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:41:11.333+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:41:11.333+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:41:11.348+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.074 seconds
+[2025-01-28T12:42:00.236+0530] {processor.py:186} INFO - Started process (PID=36194) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:42:00.248+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:42:00.251+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:42:00.250+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:42:00.259+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:42:00.269+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:42:00.269+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:42:00.278+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:42:00.278+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:42:00.292+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.061 seconds
+[2025-01-28T12:42:52.059+0530] {processor.py:186} INFO - Started process (PID=36574) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:42:52.061+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:42:52.062+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:42:52.062+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:42:52.071+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:42:52.082+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:42:52.082+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:42:52.090+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:42:52.090+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:42:52.105+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.050 seconds
+[2025-01-28T12:43:44.904+0530] {processor.py:186} INFO - Started process (PID=36954) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:43:44.916+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:43:44.918+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:43:44.918+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:43:44.926+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:43:44.937+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:43:44.937+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:43:44.945+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:43:44.945+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:43:44.959+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.059 seconds
+[2025-01-28T12:44:35.699+0530] {processor.py:186} INFO - Started process (PID=37208) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:44:35.711+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:44:35.713+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:44:35.713+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:44:35.722+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:44:35.733+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:44:35.733+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:44:35.742+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:44:35.742+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:44:35.756+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.062 seconds
+[2025-01-28T12:45:22.955+0530] {processor.py:186} INFO - Started process (PID=37435) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:45:22.956+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:45:22.958+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:45:22.957+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:45:22.965+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:45:22.976+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:45:22.976+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:45:22.984+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:45:22.984+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:45:22.998+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.048 seconds
+[2025-01-28T12:46:10.674+0530] {processor.py:186} INFO - Started process (PID=37842) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:46:10.675+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:46:10.677+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:46:10.677+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:46:10.686+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:46:10.698+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:46:10.697+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:46:10.707+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:46:10.707+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:46:10.721+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.052 seconds
+[2025-01-28T12:47:03.157+0530] {processor.py:186} INFO - Started process (PID=38049) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:47:03.158+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:47:03.159+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:47:03.159+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:47:03.168+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:47:03.179+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:47:03.179+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:47:03.188+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:47:03.188+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:47:03.202+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.050 seconds
+[2025-01-28T12:47:57.136+0530] {processor.py:186} INFO - Started process (PID=38276) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:47:57.137+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:47:57.139+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:47:57.139+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:47:57.147+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:47:57.160+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:47:57.160+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:47:57.170+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:47:57.170+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:47:57.184+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.053 seconds
+[2025-01-28T12:48:46.681+0530] {processor.py:186} INFO - Started process (PID=38506) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:48:46.682+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:48:46.684+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:48:46.683+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:48:46.691+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:48:46.703+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:48:46.702+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:48:46.711+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:48:46.711+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:48:46.725+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.049 seconds
+[2025-01-28T12:49:40.428+0530] {processor.py:186} INFO - Started process (PID=38765) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:49:40.429+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:49:40.431+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:49:40.431+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:49:40.440+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:49:40.452+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:49:40.452+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:49:40.462+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:49:40.462+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:49:40.478+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.057 seconds
+[2025-01-28T12:50:33.091+0530] {processor.py:186} INFO - Started process (PID=39020) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:50:33.104+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:50:33.107+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:50:33.106+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:50:33.116+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:50:33.128+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:50:33.128+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:50:33.138+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:50:33.137+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:50:33.153+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.067 seconds
+[2025-01-28T12:51:21.742+0530] {processor.py:186} INFO - Started process (PID=39304) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:51:21.755+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:51:21.757+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:51:21.757+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:51:21.765+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:51:21.776+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:51:21.776+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:51:21.785+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:51:21.784+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:51:21.799+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.061 seconds
+[2025-01-28T12:52:14.782+0530] {processor.py:186} INFO - Started process (PID=39507) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:52:14.783+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:52:14.785+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:52:14.784+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:52:14.792+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:52:14.803+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:52:14.803+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:52:14.812+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:52:14.811+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:52:14.827+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.050 seconds
+[2025-01-28T12:53:10.545+0530] {processor.py:186} INFO - Started process (PID=39774) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:53:10.545+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:53:10.547+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:53:10.547+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:53:10.555+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:53:10.565+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:53:10.565+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:53:10.574+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:53:10.573+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:53:10.588+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.048 seconds
+[2025-01-28T12:54:02.567+0530] {processor.py:186} INFO - Started process (PID=39991) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:54:02.568+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:54:02.570+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:54:02.570+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:54:02.578+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:54:02.588+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:54:02.588+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:54:02.597+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:54:02.597+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:54:02.611+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.048 seconds
+[2025-01-28T12:54:52.204+0530] {processor.py:186} INFO - Started process (PID=40175) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:54:52.216+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:54:52.218+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:54:52.218+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:54:52.226+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:54:52.237+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:54:52.237+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:54:52.248+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:54:52.247+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:54:52.262+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.063 seconds
+[2025-01-28T12:55:41.758+0530] {processor.py:186} INFO - Started process (PID=40386) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:55:41.770+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:55:41.773+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:55:41.772+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:55:41.780+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:55:41.791+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:55:41.791+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:55:41.799+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:55:41.799+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:55:41.813+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.060 seconds
+[2025-01-28T12:56:32.552+0530] {processor.py:186} INFO - Started process (PID=40642) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:56:32.564+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:56:32.567+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:56:32.566+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:56:32.575+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:56:32.586+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:56:32.586+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:56:32.595+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:56:32.595+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:56:32.609+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.062 seconds
+[2025-01-28T12:57:24.270+0530] {processor.py:186} INFO - Started process (PID=40883) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:57:24.271+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:57:24.272+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:57:24.272+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:57:24.280+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:57:24.291+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:57:24.291+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:57:24.300+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:57:24.300+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:57:24.314+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.049 seconds
+[2025-01-28T12:58:12.833+0530] {processor.py:186} INFO - Started process (PID=41114) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:58:12.834+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:58:12.835+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:58:12.835+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:58:12.843+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:58:12.854+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:58:12.854+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:58:12.864+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:58:12.864+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:58:12.878+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.050 seconds
+[2025-01-28T12:59:00.885+0530] {processor.py:186} INFO - Started process (PID=41504) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:59:00.886+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-01-28T12:59:00.888+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:59:00.887+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:59:00.895+0530] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-01-28T12:59:00.906+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:59:00.906+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:59:00.915+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:59:00.915+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-01-28T12:59:00.930+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.050 seconds

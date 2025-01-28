@@ -111,3 +111,479 @@
 [2025-01-28T11:51:45.967+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:45.967+0530] {dag.py:3239} INFO - Sync 1 DAGs
 [2025-01-28T11:51:45.978+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:45.978+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
 [2025-01-28T11:51:45.994+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.071 seconds
+[2025-01-28T12:01:10.244+0530] {processor.py:186} INFO - Started process (PID=22844) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:01:10.256+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:01:10.259+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:01:10.259+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:01:10.267+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:01:10.281+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:01:10.281+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:01:10.290+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:01:10.290+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:01:10.305+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.066 seconds
+[2025-01-28T12:02:06.899+0530] {processor.py:186} INFO - Started process (PID=23231) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:02:06.911+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:02:06.915+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:02:06.915+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:02:06.922+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:02:06.935+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:02:06.935+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:02:06.944+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:02:06.944+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:02:06.958+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.065 seconds
+[2025-01-28T12:03:32.204+0530] {processor.py:186} INFO - Started process (PID=24331) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:03:32.213+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:03:32.214+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:03:32.214+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:03:32.222+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:03:32.235+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:03:32.235+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:03:32.243+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:03:32.243+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:03:32.257+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.058 seconds
+[2025-01-28T12:04:43.472+0530] {processor.py:186} INFO - Started process (PID=24831) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:04:43.484+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:04:43.486+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:04:43.486+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:04:43.493+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:04:43.506+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:04:43.506+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:04:43.516+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:04:43.515+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:04:43.530+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.064 seconds
+[2025-01-28T12:05:32.289+0530] {processor.py:186} INFO - Started process (PID=25201) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:05:32.301+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:05:32.304+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:05:32.304+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:05:32.311+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:05:32.325+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:05:32.325+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:05:32.334+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:05:32.334+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:05:32.348+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.065 seconds
+[2025-01-28T12:06:27.079+0530] {processor.py:186} INFO - Started process (PID=25477) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:06:27.091+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:06:27.093+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:06:27.093+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:06:27.100+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:06:27.113+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:06:27.113+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:06:27.121+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:06:27.121+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:06:27.134+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.061 seconds
+[2025-01-28T12:07:13.811+0530] {processor.py:186} INFO - Started process (PID=25680) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:07:13.825+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:07:13.827+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:07:13.827+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:07:13.835+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:07:13.848+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:07:13.848+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:07:13.858+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:07:13.857+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:07:13.872+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.065 seconds
+[2025-01-28T12:08:06.220+0530] {processor.py:186} INFO - Started process (PID=26060) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:08:06.233+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:08:06.235+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:08:06.234+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:08:06.242+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:08:06.254+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:08:06.254+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:08:06.262+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:08:06.262+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:08:06.276+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.061 seconds
+[2025-01-28T12:08:57.673+0530] {processor.py:186} INFO - Started process (PID=26461) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:08:57.686+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:08:57.688+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:08:57.688+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:08:57.695+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:08:57.707+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:08:57.707+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:08:57.716+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:08:57.715+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:08:57.729+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.061 seconds
+[2025-01-28T12:09:47.916+0530] {processor.py:186} INFO - Started process (PID=26811) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:09:47.917+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:09:47.919+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:09:47.918+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:09:47.926+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:09:47.939+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:09:47.939+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:09:47.948+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:09:47.948+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:09:47.963+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.052 seconds
+[2025-01-28T12:10:37.589+0530] {processor.py:186} INFO - Started process (PID=27168) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:10:37.591+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:10:37.592+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:10:37.592+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:10:37.599+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:10:37.612+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:10:37.611+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:10:37.620+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:10:37.620+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:10:37.633+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.049 seconds
+[2025-01-28T12:11:30.244+0530] {processor.py:186} INFO - Started process (PID=27451) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:11:30.257+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:11:30.259+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:11:30.259+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:11:30.267+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:11:30.280+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:11:30.280+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:11:30.289+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:11:30.288+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:11:30.304+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.064 seconds
+[2025-01-28T12:12:19.850+0530] {processor.py:186} INFO - Started process (PID=27867) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:12:19.851+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:12:19.853+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:12:19.853+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:12:19.861+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:12:19.875+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:12:19.874+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:12:19.884+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:12:19.884+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:12:19.899+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.053 seconds
+[2025-01-28T12:13:13.517+0530] {processor.py:186} INFO - Started process (PID=28281) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:13:13.519+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:13:13.521+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:13:13.520+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:13:13.528+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:13:13.542+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:13:13.542+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:13:13.552+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:13:13.552+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:13:13.567+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.054 seconds
+[2025-01-28T12:14:03.514+0530] {processor.py:186} INFO - Started process (PID=28722) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:14:03.515+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:14:03.517+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:14:03.517+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:14:03.526+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:14:03.539+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:14:03.539+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:14:03.548+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:14:03.548+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:14:03.571+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.061 seconds
+[2025-01-28T12:14:52.494+0530] {processor.py:186} INFO - Started process (PID=29393) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:14:52.506+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:14:52.508+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:14:52.508+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:14:52.516+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:14:52.528+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:14:52.528+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:14:52.536+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:14:52.536+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:14:52.550+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.060 seconds
+[2025-01-28T12:15:45.916+0530] {processor.py:186} INFO - Started process (PID=29940) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:15:45.928+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:15:45.931+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:15:45.931+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:15:45.939+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:15:45.952+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:15:45.952+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:15:45.961+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:15:45.961+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:15:45.976+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.065 seconds
+[2025-01-28T12:16:35.932+0530] {processor.py:186} INFO - Started process (PID=30207) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:16:35.945+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:16:35.947+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:16:35.947+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:16:35.954+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:16:35.966+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:16:35.966+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:16:35.974+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:16:35.974+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:16:35.987+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.060 seconds
+[2025-01-28T12:17:28.741+0530] {processor.py:186} INFO - Started process (PID=30428) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:17:28.753+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:17:28.755+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:17:28.754+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:17:28.762+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:17:28.776+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:17:28.776+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:17:28.786+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:17:28.785+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:17:28.803+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.067 seconds
+[2025-01-28T12:18:19.045+0530] {processor.py:186} INFO - Started process (PID=30587) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:18:19.046+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:18:19.048+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:18:19.048+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:18:19.055+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:18:19.068+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:18:19.067+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:18:19.076+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:18:19.076+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:18:19.089+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.049 seconds
+[2025-01-28T12:19:08.160+0530] {processor.py:186} INFO - Started process (PID=30743) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:19:08.161+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:19:08.163+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:19:08.162+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:19:08.170+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:19:08.182+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:19:08.182+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:19:08.191+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:19:08.191+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:19:08.204+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.049 seconds
+[2025-01-28T12:20:00.684+0530] {processor.py:186} INFO - Started process (PID=30941) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:20:00.685+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:20:00.686+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:20:00.686+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:20:00.694+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:20:00.706+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:20:00.706+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:20:00.714+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:20:00.714+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:20:00.728+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.049 seconds
+[2025-01-28T12:20:52.209+0530] {processor.py:186} INFO - Started process (PID=31070) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:20:52.222+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:20:52.224+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:20:52.223+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:20:52.231+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:20:52.243+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:20:52.243+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:20:52.251+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:20:52.251+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:20:52.265+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.060 seconds
+[2025-01-28T12:21:41.950+0530] {processor.py:186} INFO - Started process (PID=31258) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:21:41.962+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:21:41.965+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:21:41.964+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:21:41.971+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:21:41.983+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:21:41.983+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:21:41.991+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:21:41.991+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:21:42.005+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.060 seconds
+[2025-01-28T12:22:32.077+0530] {processor.py:186} INFO - Started process (PID=31425) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:22:32.089+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:22:32.091+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:22:32.091+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:22:32.098+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:22:32.111+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:22:32.111+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:22:32.119+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:22:32.119+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:22:32.133+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.060 seconds
+[2025-01-28T12:23:19.417+0530] {processor.py:186} INFO - Started process (PID=31581) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:23:19.429+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:23:19.432+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:23:19.431+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:23:19.439+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:23:19.451+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:23:19.451+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:23:19.460+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:23:19.459+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:23:19.473+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.061 seconds
+[2025-01-28T12:24:08.684+0530] {processor.py:186} INFO - Started process (PID=31792) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:24:08.696+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:24:08.699+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:24:08.698+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:24:08.706+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:24:08.719+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:24:08.719+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:24:08.727+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:24:08.727+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:24:08.741+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.062 seconds
+[2025-01-28T12:24:58.964+0530] {processor.py:186} INFO - Started process (PID=32031) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:24:58.966+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:24:58.968+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:24:58.967+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:24:58.977+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:24:58.991+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:24:58.991+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:24:59.000+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:24:59.000+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:24:59.017+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.058 seconds
+[2025-01-28T12:25:53.175+0530] {processor.py:186} INFO - Started process (PID=32354) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:25:53.187+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:25:53.189+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:25:53.189+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:25:53.197+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:25:53.210+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:25:53.210+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:25:53.220+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:25:53.220+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:25:53.239+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.069 seconds
+[2025-01-28T12:26:43.194+0530] {processor.py:186} INFO - Started process (PID=32509) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:26:43.198+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:26:43.207+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:26:43.205+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:26:43.242+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:26:43.292+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:26:43.291+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:26:43.330+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:26:43.329+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:26:43.397+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.222 seconds
+[2025-01-28T12:27:35.825+0530] {processor.py:186} INFO - Started process (PID=32678) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:27:35.837+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:27:35.839+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:27:35.838+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:27:35.847+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:27:35.861+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:27:35.861+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:27:35.871+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:27:35.871+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:27:35.887+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.068 seconds
+[2025-01-28T12:28:31.203+0530] {processor.py:186} INFO - Started process (PID=32845) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:28:31.215+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:28:31.218+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:28:31.217+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:28:31.225+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:28:31.240+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:28:31.240+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:28:31.253+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:28:31.253+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:28:31.269+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.071 seconds
+[2025-01-28T12:29:20.399+0530] {processor.py:186} INFO - Started process (PID=33035) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:29:20.411+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:29:20.414+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:29:20.413+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:29:20.421+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:29:20.436+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:29:20.436+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:29:20.447+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:29:20.447+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:29:20.464+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.072 seconds
+[2025-01-28T12:30:12.402+0530] {processor.py:186} INFO - Started process (PID=33218) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:30:12.414+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:30:12.416+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:30:12.416+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:30:12.426+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:30:12.439+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:30:12.438+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:30:12.448+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:30:12.448+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:30:12.466+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.068 seconds
+[2025-01-28T12:31:05.892+0530] {processor.py:186} INFO - Started process (PID=33436) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:31:05.904+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:31:05.906+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:31:05.906+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:31:05.913+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:31:05.932+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:31:05.932+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:31:05.942+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:31:05.942+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:31:05.957+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.070 seconds
+[2025-01-28T12:31:55.634+0530] {processor.py:186} INFO - Started process (PID=33601) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:31:55.647+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:31:55.650+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:31:55.650+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:31:55.658+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:31:55.675+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:31:55.675+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:31:55.685+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:31:55.685+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:31:55.701+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.074 seconds
+[2025-01-28T12:32:51.368+0530] {processor.py:186} INFO - Started process (PID=33740) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:32:51.382+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:32:51.384+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:32:51.384+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:32:51.398+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:32:51.412+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:32:51.411+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:32:51.420+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:32:51.420+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:32:51.437+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.074 seconds
+[2025-01-28T12:33:43.527+0530] {processor.py:186} INFO - Started process (PID=33943) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:33:43.540+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:33:43.545+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:33:43.545+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:33:43.554+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:33:43.570+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:33:43.570+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:33:43.583+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:33:43.582+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:33:43.600+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.082 seconds
+[2025-01-28T12:34:41.455+0530] {processor.py:186} INFO - Started process (PID=34155) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:34:41.456+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:34:41.460+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:34:41.459+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:34:41.467+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:34:41.483+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:34:41.483+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:34:41.493+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:34:41.493+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:34:41.510+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.060 seconds
+[2025-01-28T12:35:32.928+0530] {processor.py:186} INFO - Started process (PID=34319) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:35:32.940+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:35:32.942+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:35:32.942+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:35:32.950+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:35:32.964+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:35:32.963+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:35:32.975+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:35:32.975+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:35:32.991+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.068 seconds
+[2025-01-28T12:36:25.402+0530] {processor.py:186} INFO - Started process (PID=34534) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:36:25.419+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:36:25.421+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:36:25.421+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:36:25.429+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:36:25.444+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:36:25.443+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:36:25.453+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:36:25.453+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:36:25.469+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.072 seconds
+[2025-01-28T12:37:18.210+0530] {processor.py:186} INFO - Started process (PID=34718) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:37:18.222+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:37:18.224+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:37:18.224+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:37:18.231+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:37:18.247+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:37:18.246+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:37:18.257+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:37:18.257+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:37:18.274+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.069 seconds
+[2025-01-28T12:38:07.208+0530] {processor.py:186} INFO - Started process (PID=34882) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:38:07.210+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:38:07.212+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:38:07.212+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:38:07.219+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:38:07.237+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:38:07.237+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:38:07.248+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:38:07.247+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:38:07.264+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.061 seconds
+[2025-01-28T12:38:59.066+0530] {processor.py:186} INFO - Started process (PID=35043) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:38:59.078+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:38:59.080+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:38:59.080+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:38:59.090+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:38:59.105+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:38:59.105+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:38:59.114+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:38:59.114+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:38:59.129+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.068 seconds
+[2025-01-28T12:39:48.521+0530] {processor.py:186} INFO - Started process (PID=35195) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:39:48.529+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:39:48.531+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:39:48.531+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:39:48.539+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:39:48.551+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:39:48.551+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:39:48.560+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:39:48.560+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:39:48.574+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.058 seconds
+[2025-01-28T12:40:39.207+0530] {processor.py:186} INFO - Started process (PID=35395) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:40:39.219+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:40:39.222+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:40:39.221+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:40:39.229+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:40:39.241+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:40:39.241+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:40:39.249+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:40:39.249+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:40:39.265+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.062 seconds
+[2025-01-28T12:41:26.707+0530] {processor.py:186} INFO - Started process (PID=35878) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:41:26.719+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:41:26.722+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:41:26.722+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:41:26.731+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:41:26.744+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:41:26.744+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:41:26.753+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:41:26.752+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:41:26.766+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.065 seconds
+[2025-01-28T12:42:18.102+0530] {processor.py:186} INFO - Started process (PID=36287) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:42:18.115+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:42:18.117+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:42:18.117+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:42:18.125+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:42:18.137+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:42:18.137+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:42:18.147+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:42:18.147+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:42:18.160+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.063 seconds
+[2025-01-28T12:43:10.674+0530] {processor.py:186} INFO - Started process (PID=36687) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:43:10.687+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:43:10.689+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:43:10.689+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:43:10.697+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:43:10.712+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:43:10.712+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:43:10.721+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:43:10.721+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:43:10.736+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.067 seconds
+[2025-01-28T12:44:01.771+0530] {processor.py:186} INFO - Started process (PID=37043) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:44:01.783+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:44:01.785+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:44:01.785+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:44:01.792+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:44:01.804+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:44:01.804+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:44:01.813+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:44:01.812+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:44:01.826+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.060 seconds
+[2025-01-28T12:44:52.174+0530] {processor.py:186} INFO - Started process (PID=37257) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:44:52.187+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:44:52.189+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:44:52.189+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:44:52.197+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:44:52.209+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:44:52.209+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:44:52.217+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:44:52.217+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:44:52.231+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.061 seconds
+[2025-01-28T12:45:37.506+0530] {processor.py:186} INFO - Started process (PID=37588) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:45:37.507+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:45:37.509+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:45:37.509+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:45:37.517+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:45:37.530+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:45:37.530+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:45:37.540+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:45:37.539+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:45:37.555+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.054 seconds
+[2025-01-28T12:46:29.419+0530] {processor.py:186} INFO - Started process (PID=37894) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:46:29.431+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:46:29.433+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:46:29.432+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:46:29.440+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:46:29.452+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:46:29.452+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:46:29.460+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:46:29.460+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:46:29.474+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.059 seconds
+[2025-01-28T12:47:21.454+0530] {processor.py:186} INFO - Started process (PID=38103) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:47:21.467+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:47:21.470+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:47:21.470+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:47:21.477+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:47:21.489+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:47:21.489+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:47:21.498+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:47:21.498+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:47:21.511+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.062 seconds
+[2025-01-28T12:48:15.123+0530] {processor.py:186} INFO - Started process (PID=38328) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:48:15.124+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:48:15.126+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:48:15.126+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:48:15.134+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:48:15.146+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:48:15.146+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:48:15.155+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:48:15.155+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:48:15.169+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.052 seconds
+[2025-01-28T12:49:05.817+0530] {processor.py:186} INFO - Started process (PID=38614) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:49:05.830+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:49:05.832+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:49:05.832+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:49:05.840+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:49:05.852+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:49:05.852+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:49:05.860+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:49:05.860+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:49:05.875+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.062 seconds
+[2025-01-28T12:49:58.054+0530] {processor.py:186} INFO - Started process (PID=38893) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:49:58.055+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:49:58.056+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:49:58.056+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:49:58.063+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:49:58.076+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:49:58.075+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:49:58.084+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:49:58.084+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:49:58.097+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.048 seconds
+[2025-01-28T12:50:48.614+0530] {processor.py:186} INFO - Started process (PID=39077) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:50:48.627+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:50:48.629+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:50:48.629+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:50:48.636+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:50:48.648+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:50:48.648+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:50:48.657+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:50:48.656+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:50:48.672+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.062 seconds
+[2025-01-28T12:51:38.894+0530] {processor.py:186} INFO - Started process (PID=39352) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:51:38.906+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:51:38.908+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:51:38.908+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:51:38.915+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:51:38.928+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:51:38.927+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:51:38.936+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:51:38.936+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:51:38.951+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.062 seconds
+[2025-01-28T12:52:36.488+0530] {processor.py:186} INFO - Started process (PID=39595) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:52:36.500+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:52:36.502+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:52:36.501+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:52:36.509+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:52:36.523+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:52:36.523+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:52:36.534+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:52:36.534+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:52:36.550+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.067 seconds
+[2025-01-28T12:53:29.042+0530] {processor.py:186} INFO - Started process (PID=39827) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:53:29.054+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:53:29.056+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:53:29.056+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:53:29.064+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:53:29.077+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:53:29.077+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:53:29.086+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:53:29.086+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:53:29.100+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.063 seconds
+[2025-01-28T12:54:20.416+0530] {processor.py:186} INFO - Started process (PID=40063) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:54:20.428+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:54:20.430+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:54:20.430+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:54:20.438+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:54:20.451+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:54:20.451+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:54:20.460+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:54:20.460+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:54:20.475+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.064 seconds
+[2025-01-28T12:55:09.568+0530] {processor.py:186} INFO - Started process (PID=40282) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:55:09.581+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:55:09.584+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:55:09.583+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:55:09.591+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:55:09.603+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:55:09.603+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:55:09.611+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:55:09.611+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:55:09.625+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.062 seconds
+[2025-01-28T12:55:59.169+0530] {processor.py:186} INFO - Started process (PID=40517) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:55:59.170+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:55:59.172+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:55:59.171+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:55:59.179+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:55:59.192+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:55:59.192+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:55:59.201+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:55:59.201+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:55:59.217+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.053 seconds
+[2025-01-28T12:56:51.584+0530] {processor.py:186} INFO - Started process (PID=40718) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:56:51.597+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:56:51.600+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:56:51.600+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:56:51.607+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:56:51.621+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:56:51.621+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:56:51.630+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:56:51.630+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:56:51.645+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.065 seconds
+[2025-01-28T12:57:39.687+0530] {processor.py:186} INFO - Started process (PID=40939) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:57:39.700+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:57:39.702+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:57:39.701+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:57:39.709+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:57:39.722+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:57:39.722+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:57:39.731+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:57:39.730+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:57:39.745+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.062 seconds
+[2025-01-28T12:58:28.510+0530] {processor.py:186} INFO - Started process (PID=41164) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:58:28.523+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:58:28.526+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:58:28.525+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:58:28.534+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:58:28.551+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:58:28.551+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:58:28.563+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:58:28.563+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:58:28.579+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.074 seconds
+[2025-01-28T12:59:18.587+0530] {processor.py:186} INFO - Started process (PID=41611) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:59:18.588+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-01-28T12:59:18.590+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:59:18.589+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:59:18.597+0530] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py
+[2025-01-28T12:59:18.611+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:59:18.610+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T12:59:18.619+0530] {logging_mixin.py:190} INFO - [2025-01-28T12:59:18.619+0530] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-01-28T12:59:18.633+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_task_group.py took 0.051 seconds
