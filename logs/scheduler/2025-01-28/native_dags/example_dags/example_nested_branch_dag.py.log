@@ -1,0 +1,113 @@
+[2025-01-28T11:39:49.003+0530] {processor.py:186} INFO - Started process (PID=17151) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-01-28T11:39:49.004+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-01-28T11:39:49.006+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:49.005+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-01-28T11:39:49.015+0530] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-01-28T11:39:49.123+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:49.122+0530] {override.py:1912} INFO - Created Permission View: can read on DAG:example_nested_branch_dag
+[2025-01-28T11:39:49.130+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:49.130+0530] {override.py:1912} INFO - Created Permission View: can edit on DAG:example_nested_branch_dag
+[2025-01-28T11:39:49.135+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:49.135+0530] {override.py:1912} INFO - Created Permission View: can delete on DAG:example_nested_branch_dag
+[2025-01-28T11:39:49.142+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:49.142+0530] {override.py:1912} INFO - Created Permission View: can read on DAG Run:example_nested_branch_dag
+[2025-01-28T11:39:49.148+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:49.147+0530] {override.py:1912} INFO - Created Permission View: can delete on DAG Run:example_nested_branch_dag
+[2025-01-28T11:39:49.153+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:49.153+0530] {override.py:1912} INFO - Created Permission View: menu access on DAG Run:example_nested_branch_dag
+[2025-01-28T11:39:49.158+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:49.158+0530] {override.py:1912} INFO - Created Permission View: can create on DAG Run:example_nested_branch_dag
+[2025-01-28T11:39:49.159+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:49.158+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:39:49.166+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:49.166+0530] {dag.py:3262} INFO - Creating ORM DAG for example_nested_branch_dag
+[2025-01-28T11:39:49.172+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:49.172+0530] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:39:49.184+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.186 seconds
+[2025-01-28T11:40:49.191+0530] {processor.py:186} INFO - Started process (PID=17344) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-01-28T11:40:49.204+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-01-28T11:40:49.206+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:49.206+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-01-28T11:40:49.215+0530] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-01-28T11:40:49.227+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:49.227+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:40:49.242+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:49.242+0530] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:40:49.255+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.069 seconds
+[2025-01-28T11:41:43.981+0530] {processor.py:186} INFO - Started process (PID=17510) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-01-28T11:41:43.982+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-01-28T11:41:43.984+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:43.984+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-01-28T11:41:43.994+0530] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-01-28T11:41:44.006+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:44.006+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:41:44.021+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:44.021+0530] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:41:44.035+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.060 seconds
+[2025-01-28T11:42:40.403+0530] {processor.py:186} INFO - Started process (PID=17700) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-01-28T11:42:40.415+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-01-28T11:42:40.417+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:40.417+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-01-28T11:42:40.427+0530] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-01-28T11:42:40.439+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:40.439+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:42:40.455+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:40.454+0530] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:42:40.469+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.070 seconds
+[2025-01-28T11:43:31.199+0530] {processor.py:186} INFO - Started process (PID=17860) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-01-28T11:43:31.211+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-01-28T11:43:31.212+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:31.212+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-01-28T11:43:31.222+0530] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-01-28T11:43:31.235+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:31.234+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:43:31.249+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:31.249+0530] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:43:31.263+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.070 seconds
+[2025-01-28T11:44:19.717+0530] {processor.py:186} INFO - Started process (PID=18076) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-01-28T11:44:19.730+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-01-28T11:44:19.732+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:19.732+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-01-28T11:44:19.742+0530] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-01-28T11:44:19.754+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:19.754+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:44:19.768+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:19.768+0530] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:44:19.782+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.069 seconds
+[2025-01-28T11:45:11.945+0530] {processor.py:186} INFO - Started process (PID=18269) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-01-28T11:45:11.946+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-01-28T11:45:11.948+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:11.947+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-01-28T11:45:11.961+0530] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-01-28T11:45:11.976+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:11.976+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:45:11.999+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:11.999+0530] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:45:12.015+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.081 seconds
+[2025-01-28T11:46:07.777+0530] {processor.py:186} INFO - Started process (PID=18376) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-01-28T11:46:07.778+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-01-28T11:46:07.780+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:07.780+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-01-28T11:46:07.794+0530] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-01-28T11:46:07.808+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:07.808+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:46:07.826+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:07.826+0530] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:46:07.846+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.078 seconds
+[2025-01-28T11:47:00.418+0530] {processor.py:186} INFO - Started process (PID=18575) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-01-28T11:47:00.430+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-01-28T11:47:00.432+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:00.432+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-01-28T11:47:00.441+0530] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-01-28T11:47:00.453+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:00.453+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:47:00.467+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:00.467+0530] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:47:00.480+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.067 seconds
+[2025-01-28T11:47:51.418+0530] {processor.py:186} INFO - Started process (PID=18933) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-01-28T11:47:51.430+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-01-28T11:47:51.433+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:51.433+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-01-28T11:47:51.444+0530] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-01-28T11:47:51.457+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:51.457+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:47:51.471+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:51.470+0530] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:47:51.491+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.078 seconds
+[2025-01-28T11:48:45.447+0530] {processor.py:186} INFO - Started process (PID=19143) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-01-28T11:48:45.459+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-01-28T11:48:45.461+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:45.461+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-01-28T11:48:45.471+0530] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-01-28T11:48:45.483+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:45.483+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:48:45.497+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:45.497+0530] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:48:45.511+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.069 seconds
+[2025-01-28T11:49:35.595+0530] {processor.py:186} INFO - Started process (PID=19455) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-01-28T11:49:35.607+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-01-28T11:49:35.610+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:35.610+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-01-28T11:49:35.619+0530] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-01-28T11:49:35.631+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:35.631+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:49:35.645+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:35.645+0530] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:49:35.659+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.068 seconds
+[2025-01-28T11:50:23.971+0530] {processor.py:186} INFO - Started process (PID=19777) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-01-28T11:50:23.983+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-01-28T11:50:23.985+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:23.985+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-01-28T11:50:23.995+0530] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-01-28T11:50:24.007+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:24.007+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:50:24.021+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:24.021+0530] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:50:24.035+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.068 seconds
+[2025-01-28T11:51:14.652+0530] {processor.py:186} INFO - Started process (PID=19949) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-01-28T11:51:14.665+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-01-28T11:51:14.667+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:14.667+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-01-28T11:51:14.677+0530] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-01-28T11:51:14.689+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:14.688+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:51:14.703+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:14.702+0530] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:51:14.717+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.070 seconds
+[2025-01-28T11:52:06.504+0530] {processor.py:186} INFO - Started process (PID=20356) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-01-28T11:52:06.505+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-01-28T11:52:06.507+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:52:06.506+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-01-28T11:52:06.516+0530] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-01-28T11:52:06.528+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:52:06.527+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:52:06.542+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:52:06.541+0530] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:52:06.555+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.056 seconds

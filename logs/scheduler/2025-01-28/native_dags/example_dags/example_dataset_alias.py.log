@@ -1,0 +1,182 @@
+[2025-01-28T11:39:53.319+0530] {processor.py:186} INFO - Started process (PID=17159) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2025-01-28T11:39:53.320+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py for tasks to queue
+[2025-01-28T11:39:53.322+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:53.322+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2025-01-28T11:39:53.336+0530] {processor.py:925} INFO - DAG(s) 'dataset_s3_bucket_consumer', 'dataset_alias_example_alias_consumer', 'dataset_alias_example_alias_producer', 'dataset_s3_bucket_producer' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2025-01-28T11:39:53.440+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:53.440+0530] {override.py:1912} INFO - Created Permission View: can read on DAG:dataset_s3_bucket_consumer
+[2025-01-28T11:39:53.447+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:53.447+0530] {override.py:1912} INFO - Created Permission View: can edit on DAG:dataset_s3_bucket_consumer
+[2025-01-28T11:39:53.452+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:53.452+0530] {override.py:1912} INFO - Created Permission View: can delete on DAG:dataset_s3_bucket_consumer
+[2025-01-28T11:39:53.464+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:53.464+0530] {override.py:1912} INFO - Created Permission View: can read on DAG Run:dataset_s3_bucket_consumer
+[2025-01-28T11:39:53.470+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:53.470+0530] {override.py:1912} INFO - Created Permission View: can delete on DAG Run:dataset_s3_bucket_consumer
+[2025-01-28T11:39:53.477+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:53.476+0530] {override.py:1912} INFO - Created Permission View: menu access on DAG Run:dataset_s3_bucket_consumer
+[2025-01-28T11:39:53.482+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:53.482+0530] {override.py:1912} INFO - Created Permission View: can create on DAG Run:dataset_s3_bucket_consumer
+[2025-01-28T11:39:53.493+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:53.492+0530] {override.py:1912} INFO - Created Permission View: can read on DAG:dataset_alias_example_alias_consumer
+[2025-01-28T11:39:53.497+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:53.497+0530] {override.py:1912} INFO - Created Permission View: can edit on DAG:dataset_alias_example_alias_consumer
+[2025-01-28T11:39:53.502+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:53.502+0530] {override.py:1912} INFO - Created Permission View: can delete on DAG:dataset_alias_example_alias_consumer
+[2025-01-28T11:39:53.510+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:53.510+0530] {override.py:1912} INFO - Created Permission View: can read on DAG Run:dataset_alias_example_alias_consumer
+[2025-01-28T11:39:53.516+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:53.515+0530] {override.py:1912} INFO - Created Permission View: can delete on DAG Run:dataset_alias_example_alias_consumer
+[2025-01-28T11:39:53.520+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:53.520+0530] {override.py:1912} INFO - Created Permission View: menu access on DAG Run:dataset_alias_example_alias_consumer
+[2025-01-28T11:39:53.525+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:53.525+0530] {override.py:1912} INFO - Created Permission View: can create on DAG Run:dataset_alias_example_alias_consumer
+[2025-01-28T11:39:53.538+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:53.537+0530] {override.py:1912} INFO - Created Permission View: can read on DAG:dataset_alias_example_alias_producer
+[2025-01-28T11:39:53.543+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:53.543+0530] {override.py:1912} INFO - Created Permission View: can edit on DAG:dataset_alias_example_alias_producer
+[2025-01-28T11:39:53.548+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:53.548+0530] {override.py:1912} INFO - Created Permission View: can delete on DAG:dataset_alias_example_alias_producer
+[2025-01-28T11:39:53.555+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:53.555+0530] {override.py:1912} INFO - Created Permission View: can read on DAG Run:dataset_alias_example_alias_producer
+[2025-01-28T11:39:53.559+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:53.559+0530] {override.py:1912} INFO - Created Permission View: can delete on DAG Run:dataset_alias_example_alias_producer
+[2025-01-28T11:39:53.564+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:53.564+0530] {override.py:1912} INFO - Created Permission View: menu access on DAG Run:dataset_alias_example_alias_producer
+[2025-01-28T11:39:53.569+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:53.569+0530] {override.py:1912} INFO - Created Permission View: can create on DAG Run:dataset_alias_example_alias_producer
+[2025-01-28T11:39:53.579+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:53.579+0530] {override.py:1912} INFO - Created Permission View: can read on DAG:dataset_s3_bucket_producer
+[2025-01-28T11:39:53.584+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:53.583+0530] {override.py:1912} INFO - Created Permission View: can edit on DAG:dataset_s3_bucket_producer
+[2025-01-28T11:39:53.588+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:53.588+0530] {override.py:1912} INFO - Created Permission View: can delete on DAG:dataset_s3_bucket_producer
+[2025-01-28T11:39:53.595+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:53.595+0530] {override.py:1912} INFO - Created Permission View: can read on DAG Run:dataset_s3_bucket_producer
+[2025-01-28T11:39:53.600+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:53.599+0530] {override.py:1912} INFO - Created Permission View: can delete on DAG Run:dataset_s3_bucket_producer
+[2025-01-28T11:39:53.605+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:53.605+0530] {override.py:1912} INFO - Created Permission View: menu access on DAG Run:dataset_s3_bucket_producer
+[2025-01-28T11:39:53.611+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:53.611+0530] {override.py:1912} INFO - Created Permission View: can create on DAG Run:dataset_s3_bucket_producer
+[2025-01-28T11:39:53.611+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:53.611+0530] {dag.py:3239} INFO - Sync 4 DAGs
+[2025-01-28T11:39:53.619+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:53.618+0530] {dag.py:3262} INFO - Creating ORM DAG for dataset_alias_example_alias_consumer
+[2025-01-28T11:39:53.619+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:53.619+0530] {dag.py:3262} INFO - Creating ORM DAG for dataset_s3_bucket_producer
+[2025-01-28T11:39:53.619+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:53.619+0530] {dag.py:3262} INFO - Creating ORM DAG for dataset_alias_example_alias_producer
+[2025-01-28T11:39:53.620+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:53.619+0530] {dag.py:3262} INFO - Creating ORM DAG for dataset_s3_bucket_consumer
+[2025-01-28T11:39:53.625+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:53.624+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_alias_example_alias_consumer to None, run_after=None
+[2025-01-28T11:39:53.625+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:53.625+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_alias_example_alias_producer to None, run_after=None
+[2025-01-28T11:39:53.625+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:53.625+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_s3_bucket_consumer to None, run_after=None
+[2025-01-28T11:39:53.625+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:53.625+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_s3_bucket_producer to None, run_after=None
+[2025-01-28T11:39:53.643+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py took 0.329 seconds
+[2025-01-28T11:40:53.192+0530] {processor.py:186} INFO - Started process (PID=17352) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2025-01-28T11:40:53.204+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py for tasks to queue
+[2025-01-28T11:40:53.206+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:53.206+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2025-01-28T11:40:53.225+0530] {processor.py:925} INFO - DAG(s) 'dataset_alias_example_alias_producer', 'dataset_s3_bucket_consumer', 'dataset_s3_bucket_producer', 'dataset_alias_example_alias_consumer' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2025-01-28T11:40:53.239+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:53.239+0530] {dag.py:3239} INFO - Sync 4 DAGs
+[2025-01-28T11:40:53.252+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:53.252+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_alias_example_alias_consumer to None, run_after=None
+[2025-01-28T11:40:53.254+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:53.254+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_alias_example_alias_producer to None, run_after=None
+[2025-01-28T11:40:53.255+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:53.254+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_s3_bucket_consumer to None, run_after=None
+[2025-01-28T11:40:53.255+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:53.255+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_s3_bucket_producer to None, run_after=None
+[2025-01-28T11:40:53.271+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py took 0.083 seconds
+[2025-01-28T11:41:47.596+0530] {processor.py:186} INFO - Started process (PID=17514) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2025-01-28T11:41:47.609+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py for tasks to queue
+[2025-01-28T11:41:47.612+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:47.611+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2025-01-28T11:41:47.629+0530] {processor.py:925} INFO - DAG(s) 'dataset_s3_bucket_consumer', 'dataset_alias_example_alias_consumer', 'dataset_alias_example_alias_producer', 'dataset_s3_bucket_producer' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2025-01-28T11:41:47.644+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:47.644+0530] {dag.py:3239} INFO - Sync 4 DAGs
+[2025-01-28T11:41:47.657+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:47.657+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_alias_example_alias_consumer to None, run_after=None
+[2025-01-28T11:41:47.659+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:47.659+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_alias_example_alias_producer to None, run_after=None
+[2025-01-28T11:41:47.660+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:47.659+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_s3_bucket_consumer to None, run_after=None
+[2025-01-28T11:41:47.660+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:47.660+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_s3_bucket_producer to None, run_after=None
+[2025-01-28T11:41:47.676+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py took 0.085 seconds
+[2025-01-28T11:42:44.411+0530] {processor.py:186} INFO - Started process (PID=17708) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2025-01-28T11:42:44.424+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py for tasks to queue
+[2025-01-28T11:42:44.426+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:44.426+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2025-01-28T11:42:44.443+0530] {processor.py:925} INFO - DAG(s) 'dataset_alias_example_alias_consumer', 'dataset_s3_bucket_producer', 'dataset_alias_example_alias_producer', 'dataset_s3_bucket_consumer' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2025-01-28T11:42:44.457+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:44.457+0530] {dag.py:3239} INFO - Sync 4 DAGs
+[2025-01-28T11:42:44.471+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:44.471+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_alias_example_alias_consumer to None, run_after=None
+[2025-01-28T11:42:44.473+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:44.473+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_alias_example_alias_producer to None, run_after=None
+[2025-01-28T11:42:44.474+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:44.473+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_s3_bucket_consumer to None, run_after=None
+[2025-01-28T11:42:44.474+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:44.474+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_s3_bucket_producer to None, run_after=None
+[2025-01-28T11:42:44.490+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py took 0.084 seconds
+[2025-01-28T11:43:34.690+0530] {processor.py:186} INFO - Started process (PID=17868) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2025-01-28T11:43:34.703+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py for tasks to queue
+[2025-01-28T11:43:34.705+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:34.704+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2025-01-28T11:43:34.722+0530] {processor.py:925} INFO - DAG(s) 'dataset_alias_example_alias_consumer', 'dataset_s3_bucket_consumer', 'dataset_s3_bucket_producer', 'dataset_alias_example_alias_producer' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2025-01-28T11:43:34.736+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:34.735+0530] {dag.py:3239} INFO - Sync 4 DAGs
+[2025-01-28T11:43:34.748+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:34.748+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_alias_example_alias_consumer to None, run_after=None
+[2025-01-28T11:43:34.750+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:34.750+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_alias_example_alias_producer to None, run_after=None
+[2025-01-28T11:43:34.750+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:34.750+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_s3_bucket_consumer to None, run_after=None
+[2025-01-28T11:43:34.751+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:34.751+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_s3_bucket_producer to None, run_after=None
+[2025-01-28T11:43:34.766+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py took 0.081 seconds
+[2025-01-28T11:44:23.560+0530] {processor.py:186} INFO - Started process (PID=18084) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2025-01-28T11:44:23.573+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py for tasks to queue
+[2025-01-28T11:44:23.575+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:23.575+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2025-01-28T11:44:23.592+0530] {processor.py:925} INFO - DAG(s) 'dataset_alias_example_alias_consumer', 'dataset_alias_example_alias_producer', 'dataset_s3_bucket_producer', 'dataset_s3_bucket_consumer' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2025-01-28T11:44:23.609+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:23.608+0530] {dag.py:3239} INFO - Sync 4 DAGs
+[2025-01-28T11:44:23.621+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:23.621+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_alias_example_alias_consumer to None, run_after=None
+[2025-01-28T11:44:23.623+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:23.623+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_alias_example_alias_producer to None, run_after=None
+[2025-01-28T11:44:23.624+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:23.624+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_s3_bucket_consumer to None, run_after=None
+[2025-01-28T11:44:23.624+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:23.624+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_s3_bucket_producer to None, run_after=None
+[2025-01-28T11:44:23.645+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py took 0.090 seconds
+[2025-01-28T11:45:16.068+0530] {processor.py:186} INFO - Started process (PID=18274) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2025-01-28T11:45:16.083+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py for tasks to queue
+[2025-01-28T11:45:16.087+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:16.087+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2025-01-28T11:45:16.108+0530] {processor.py:925} INFO - DAG(s) 'dataset_alias_example_alias_consumer', 'dataset_s3_bucket_consumer', 'dataset_s3_bucket_producer', 'dataset_alias_example_alias_producer' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2025-01-28T11:45:16.125+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:16.125+0530] {dag.py:3239} INFO - Sync 4 DAGs
+[2025-01-28T11:45:16.144+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:16.144+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_alias_example_alias_consumer to None, run_after=None
+[2025-01-28T11:45:16.145+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:16.145+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_alias_example_alias_producer to None, run_after=None
+[2025-01-28T11:45:16.146+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:16.146+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_s3_bucket_consumer to None, run_after=None
+[2025-01-28T11:45:16.147+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:16.147+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_s3_bucket_producer to None, run_after=None
+[2025-01-28T11:45:16.165+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py took 0.103 seconds
+[2025-01-28T11:46:11.771+0530] {processor.py:186} INFO - Started process (PID=18440) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2025-01-28T11:46:11.784+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py for tasks to queue
+[2025-01-28T11:46:11.787+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:11.786+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2025-01-28T11:46:11.814+0530] {processor.py:925} INFO - DAG(s) 'dataset_alias_example_alias_producer', 'dataset_s3_bucket_consumer', 'dataset_s3_bucket_producer', 'dataset_alias_example_alias_consumer' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2025-01-28T11:46:11.834+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:11.834+0530] {dag.py:3239} INFO - Sync 4 DAGs
+[2025-01-28T11:46:11.851+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:11.851+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_alias_example_alias_consumer to None, run_after=None
+[2025-01-28T11:46:11.853+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:11.853+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_alias_example_alias_producer to None, run_after=None
+[2025-01-28T11:46:11.854+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:11.853+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_s3_bucket_consumer to None, run_after=None
+[2025-01-28T11:46:11.854+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:11.854+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_s3_bucket_producer to None, run_after=None
+[2025-01-28T11:46:11.877+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py took 0.111 seconds
+[2025-01-28T11:47:03.188+0530] {processor.py:186} INFO - Started process (PID=18579) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2025-01-28T11:47:03.200+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py for tasks to queue
+[2025-01-28T11:47:03.203+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:03.202+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2025-01-28T11:47:03.220+0530] {processor.py:925} INFO - DAG(s) 'dataset_alias_example_alias_producer', 'dataset_s3_bucket_consumer', 'dataset_alias_example_alias_consumer', 'dataset_s3_bucket_producer' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2025-01-28T11:47:03.233+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:03.233+0530] {dag.py:3239} INFO - Sync 4 DAGs
+[2025-01-28T11:47:03.246+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:03.246+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_alias_example_alias_consumer to None, run_after=None
+[2025-01-28T11:47:03.247+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:03.247+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_alias_example_alias_producer to None, run_after=None
+[2025-01-28T11:47:03.248+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:03.248+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_s3_bucket_consumer to None, run_after=None
+[2025-01-28T11:47:03.249+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:03.249+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_s3_bucket_producer to None, run_after=None
+[2025-01-28T11:47:03.264+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py took 0.081 seconds
+[2025-01-28T11:47:55.839+0530] {processor.py:186} INFO - Started process (PID=18941) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2025-01-28T11:47:55.848+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py for tasks to queue
+[2025-01-28T11:47:55.851+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:55.850+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2025-01-28T11:47:55.872+0530] {processor.py:925} INFO - DAG(s) 'dataset_alias_example_alias_consumer', 'dataset_s3_bucket_consumer', 'dataset_alias_example_alias_producer', 'dataset_s3_bucket_producer' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2025-01-28T11:47:55.888+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:55.888+0530] {dag.py:3239} INFO - Sync 4 DAGs
+[2025-01-28T11:47:55.901+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:55.900+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_alias_example_alias_consumer to None, run_after=None
+[2025-01-28T11:47:55.902+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:55.902+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_alias_example_alias_producer to None, run_after=None
+[2025-01-28T11:47:55.903+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:55.903+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_s3_bucket_consumer to None, run_after=None
+[2025-01-28T11:47:55.903+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:55.903+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_s3_bucket_producer to None, run_after=None
+[2025-01-28T11:47:55.928+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py took 0.094 seconds
+[2025-01-28T11:48:49.034+0530] {processor.py:186} INFO - Started process (PID=19173) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2025-01-28T11:48:49.035+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py for tasks to queue
+[2025-01-28T11:48:49.037+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:49.037+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2025-01-28T11:48:49.057+0530] {processor.py:925} INFO - DAG(s) 'dataset_alias_example_alias_consumer', 'dataset_s3_bucket_producer', 'dataset_alias_example_alias_producer', 'dataset_s3_bucket_consumer' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2025-01-28T11:48:49.073+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:49.073+0530] {dag.py:3239} INFO - Sync 4 DAGs
+[2025-01-28T11:48:49.089+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:49.089+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_alias_example_alias_consumer to None, run_after=None
+[2025-01-28T11:48:49.090+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:49.090+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_alias_example_alias_producer to None, run_after=None
+[2025-01-28T11:48:49.091+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:49.091+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_s3_bucket_consumer to None, run_after=None
+[2025-01-28T11:48:49.092+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:49.092+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_s3_bucket_producer to None, run_after=None
+[2025-01-28T11:48:49.114+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py took 0.086 seconds
+[2025-01-28T11:49:39.967+0530] {processor.py:186} INFO - Started process (PID=19520) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2025-01-28T11:49:39.980+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py for tasks to queue
+[2025-01-28T11:49:39.982+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:39.982+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2025-01-28T11:49:39.999+0530] {processor.py:925} INFO - DAG(s) 'dataset_s3_bucket_consumer', 'dataset_alias_example_alias_producer', 'dataset_s3_bucket_producer', 'dataset_alias_example_alias_consumer' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2025-01-28T11:49:40.013+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:40.013+0530] {dag.py:3239} INFO - Sync 4 DAGs
+[2025-01-28T11:49:40.027+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:40.027+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_alias_example_alias_consumer to None, run_after=None
+[2025-01-28T11:49:40.029+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:40.028+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_alias_example_alias_producer to None, run_after=None
+[2025-01-28T11:49:40.029+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:40.029+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_s3_bucket_consumer to None, run_after=None
+[2025-01-28T11:49:40.030+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:40.030+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_s3_bucket_producer to None, run_after=None
+[2025-01-28T11:49:40.046+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py took 0.083 seconds
+[2025-01-28T11:50:28.515+0530] {processor.py:186} INFO - Started process (PID=19786) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2025-01-28T11:50:28.528+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py for tasks to queue
+[2025-01-28T11:50:28.530+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:28.529+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2025-01-28T11:50:28.547+0530] {processor.py:925} INFO - DAG(s) 'dataset_alias_example_alias_consumer', 'dataset_alias_example_alias_producer', 'dataset_s3_bucket_consumer', 'dataset_s3_bucket_producer' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2025-01-28T11:50:28.560+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:28.560+0530] {dag.py:3239} INFO - Sync 4 DAGs
+[2025-01-28T11:50:28.573+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:28.573+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_alias_example_alias_consumer to None, run_after=None
+[2025-01-28T11:50:28.575+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:28.574+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_alias_example_alias_producer to None, run_after=None
+[2025-01-28T11:50:28.575+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:28.575+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_s3_bucket_consumer to None, run_after=None
+[2025-01-28T11:50:28.576+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:28.576+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_s3_bucket_producer to None, run_after=None
+[2025-01-28T11:50:28.591+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py took 0.081 seconds
+[2025-01-28T11:51:18.037+0530] {processor.py:186} INFO - Started process (PID=19956) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2025-01-28T11:51:18.038+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py for tasks to queue
+[2025-01-28T11:51:18.040+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:18.039+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2025-01-28T11:51:18.057+0530] {processor.py:925} INFO - DAG(s) 'dataset_alias_example_alias_producer', 'dataset_s3_bucket_consumer', 'dataset_s3_bucket_producer', 'dataset_alias_example_alias_consumer' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2025-01-28T11:51:18.071+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:18.071+0530] {dag.py:3239} INFO - Sync 4 DAGs
+[2025-01-28T11:51:18.084+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:18.084+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_alias_example_alias_consumer to None, run_after=None
+[2025-01-28T11:51:18.085+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:18.085+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_alias_example_alias_producer to None, run_after=None
+[2025-01-28T11:51:18.086+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:18.086+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_s3_bucket_consumer to None, run_after=None
+[2025-01-28T11:51:18.086+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:18.086+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_s3_bucket_producer to None, run_after=None
+[2025-01-28T11:51:18.102+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py took 0.069 seconds
+[2025-01-28T11:52:11.047+0530] {processor.py:186} INFO - Started process (PID=20480) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2025-01-28T11:52:11.048+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py for tasks to queue
+[2025-01-28T11:52:11.050+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:52:11.049+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2025-01-28T11:52:11.067+0530] {processor.py:925} INFO - DAG(s) 'dataset_alias_example_alias_producer', 'dataset_alias_example_alias_consumer', 'dataset_s3_bucket_consumer', 'dataset_s3_bucket_producer' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2025-01-28T11:52:11.081+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:52:11.081+0530] {dag.py:3239} INFO - Sync 4 DAGs
+[2025-01-28T11:52:11.094+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:52:11.094+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_alias_example_alias_consumer to None, run_after=None
+[2025-01-28T11:52:11.096+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:52:11.096+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_alias_example_alias_producer to None, run_after=None
+[2025-01-28T11:52:11.097+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:52:11.096+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_s3_bucket_consumer to None, run_after=None
+[2025-01-28T11:52:11.097+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:52:11.097+0530] {dag.py:4180} INFO - Setting next_dagrun for dataset_s3_bucket_producer to None, run_after=None
+[2025-01-28T11:52:11.112+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py took 0.070 seconds

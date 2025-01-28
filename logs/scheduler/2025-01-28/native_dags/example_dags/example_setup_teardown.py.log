@@ -1,0 +1,113 @@
+[2025-01-28T11:39:40.018+0530] {processor.py:186} INFO - Started process (PID=17134) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-01-28T11:39:40.018+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-01-28T11:39:40.020+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:40.020+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-01-28T11:39:40.028+0530] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-01-28T11:39:40.132+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:40.132+0530] {override.py:1912} INFO - Created Permission View: can read on DAG:example_setup_teardown
+[2025-01-28T11:39:40.139+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:40.139+0530] {override.py:1912} INFO - Created Permission View: can edit on DAG:example_setup_teardown
+[2025-01-28T11:39:40.145+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:40.145+0530] {override.py:1912} INFO - Created Permission View: can delete on DAG:example_setup_teardown
+[2025-01-28T11:39:40.153+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:40.153+0530] {override.py:1912} INFO - Created Permission View: can read on DAG Run:example_setup_teardown
+[2025-01-28T11:39:40.158+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:40.157+0530] {override.py:1912} INFO - Created Permission View: can delete on DAG Run:example_setup_teardown
+[2025-01-28T11:39:40.162+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:40.162+0530] {override.py:1912} INFO - Created Permission View: menu access on DAG Run:example_setup_teardown
+[2025-01-28T11:39:40.167+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:40.167+0530] {override.py:1912} INFO - Created Permission View: can create on DAG Run:example_setup_teardown
+[2025-01-28T11:39:40.168+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:40.167+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:39:40.177+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:40.177+0530] {dag.py:3262} INFO - Creating ORM DAG for example_setup_teardown
+[2025-01-28T11:39:40.177+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:40.177+0530] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-01-28T11:39:40.189+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.177 seconds
+[2025-01-28T11:40:40.043+0530] {processor.py:186} INFO - Started process (PID=17326) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-01-28T11:40:40.053+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-01-28T11:40:40.055+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:40.055+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-01-28T11:40:40.062+0530] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-01-28T11:40:40.073+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:40.073+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:40:40.081+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:40.081+0530] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-01-28T11:40:40.096+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.058 seconds
+[2025-01-28T11:41:33.693+0530] {processor.py:186} INFO - Started process (PID=17488) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-01-28T11:41:33.693+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-01-28T11:41:33.695+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:33.695+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-01-28T11:41:33.703+0530] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-01-28T11:41:33.714+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:33.714+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:41:33.722+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:33.722+0530] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-01-28T11:41:33.748+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.060 seconds
+[2025-01-28T11:42:30.719+0530] {processor.py:186} INFO - Started process (PID=17682) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-01-28T11:42:30.720+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-01-28T11:42:30.722+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:30.722+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-01-28T11:42:30.729+0530] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-01-28T11:42:30.741+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:30.741+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:42:30.749+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:30.749+0530] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-01-28T11:42:30.763+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.049 seconds
+[2025-01-28T11:43:22.129+0530] {processor.py:186} INFO - Started process (PID=17846) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-01-28T11:43:22.130+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-01-28T11:43:22.132+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:22.132+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-01-28T11:43:22.139+0530] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-01-28T11:43:22.151+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:22.151+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:43:22.159+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:22.159+0530] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-01-28T11:43:22.174+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.049 seconds
+[2025-01-28T11:44:12.984+0530] {processor.py:186} INFO - Started process (PID=18003) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-01-28T11:44:12.997+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-01-28T11:44:12.999+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:12.999+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-01-28T11:44:13.006+0530] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-01-28T11:44:13.017+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:13.017+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:44:13.026+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:13.026+0530] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-01-28T11:44:13.039+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.060 seconds
+[2025-01-28T11:45:02.227+0530] {processor.py:186} INFO - Started process (PID=18177) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-01-28T11:45:02.241+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-01-28T11:45:02.246+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:02.246+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-01-28T11:45:02.253+0530] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-01-28T11:45:02.267+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:02.266+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:45:02.277+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:02.277+0530] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-01-28T11:45:02.297+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.078 seconds
+[2025-01-28T11:45:58.621+0530] {processor.py:186} INFO - Started process (PID=18358) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-01-28T11:45:58.633+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-01-28T11:45:58.635+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:58.635+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-01-28T11:45:58.645+0530] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-01-28T11:45:58.656+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:58.656+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:45:58.671+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:58.671+0530] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-01-28T11:45:58.688+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.072 seconds
+[2025-01-28T11:46:51.707+0530] {processor.py:186} INFO - Started process (PID=18566) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-01-28T11:46:51.719+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-01-28T11:46:51.721+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:51.721+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-01-28T11:46:51.728+0530] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-01-28T11:46:51.740+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:51.740+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:46:51.748+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:51.748+0530] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-01-28T11:46:51.762+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.061 seconds
+[2025-01-28T11:47:42.418+0530] {processor.py:186} INFO - Started process (PID=18909) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-01-28T11:47:42.430+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-01-28T11:47:42.433+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:42.432+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-01-28T11:47:42.443+0530] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-01-28T11:47:42.455+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:42.455+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:47:42.465+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:42.465+0530] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-01-28T11:47:42.480+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.067 seconds
+[2025-01-28T11:48:35.906+0530] {processor.py:186} INFO - Started process (PID=19130) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-01-28T11:48:35.918+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-01-28T11:48:35.920+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:35.920+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-01-28T11:48:35.927+0530] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-01-28T11:48:35.938+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:35.938+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:48:35.947+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:35.947+0530] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-01-28T11:48:35.961+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.060 seconds
+[2025-01-28T11:49:27.411+0530] {processor.py:186} INFO - Started process (PID=19446) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-01-28T11:49:27.424+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-01-28T11:49:27.426+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:27.426+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-01-28T11:49:27.433+0530] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-01-28T11:49:27.445+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:27.444+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:49:27.453+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:27.453+0530] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-01-28T11:49:27.467+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.060 seconds
+[2025-01-28T11:50:14.826+0530] {processor.py:186} INFO - Started process (PID=19760) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-01-28T11:50:14.839+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-01-28T11:50:14.841+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:14.841+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-01-28T11:50:14.848+0530] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-01-28T11:50:14.860+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:14.860+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:50:14.868+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:14.868+0530] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-01-28T11:50:14.882+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.061 seconds
+[2025-01-28T11:51:06.434+0530] {processor.py:186} INFO - Started process (PID=19855) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-01-28T11:51:06.447+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-01-28T11:51:06.450+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:06.449+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-01-28T11:51:06.457+0530] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-01-28T11:51:06.468+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:06.468+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:51:06.477+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:06.477+0530] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-01-28T11:51:06.491+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.061 seconds
+[2025-01-28T11:51:57.360+0530] {processor.py:186} INFO - Started process (PID=20300) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-01-28T11:51:57.372+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-01-28T11:51:57.374+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:57.374+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-01-28T11:51:57.381+0530] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-01-28T11:51:57.393+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:57.392+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:51:57.401+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:57.401+0530] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-01-28T11:51:57.416+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.061 seconds

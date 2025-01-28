@@ -1,0 +1,113 @@
+[2025-01-28T11:39:28.104+0530] {processor.py:186} INFO - Started process (PID=17114) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-28T11:39:28.104+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-01-28T11:39:28.106+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:28.106+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-28T11:39:28.114+0530] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-28T11:39:28.221+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:28.220+0530] {override.py:1912} INFO - Created Permission View: can read on DAG:example_xcom
+[2025-01-28T11:39:28.228+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:28.228+0530] {override.py:1912} INFO - Created Permission View: can edit on DAG:example_xcom
+[2025-01-28T11:39:28.233+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:28.232+0530] {override.py:1912} INFO - Created Permission View: can delete on DAG:example_xcom
+[2025-01-28T11:39:28.241+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:28.241+0530] {override.py:1912} INFO - Created Permission View: can read on DAG Run:example_xcom
+[2025-01-28T11:39:28.248+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:28.247+0530] {override.py:1912} INFO - Created Permission View: can delete on DAG Run:example_xcom
+[2025-01-28T11:39:28.254+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:28.254+0530] {override.py:1912} INFO - Created Permission View: menu access on DAG Run:example_xcom
+[2025-01-28T11:39:28.260+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:28.260+0530] {override.py:1912} INFO - Created Permission View: can create on DAG Run:example_xcom
+[2025-01-28T11:39:28.261+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:28.261+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:39:28.270+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:28.270+0530] {dag.py:3262} INFO - Creating ORM DAG for example_xcom
+[2025-01-28T11:39:28.276+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:28.276+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-01-28T11:39:28.288+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.189 seconds
+[2025-01-28T11:40:27.487+0530] {processor.py:186} INFO - Started process (PID=17303) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-28T11:40:27.499+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-01-28T11:40:27.501+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:27.501+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-28T11:40:27.508+0530] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-28T11:40:27.520+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:27.520+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:40:27.535+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:27.534+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-01-28T11:40:27.548+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.066 seconds
+[2025-01-28T11:41:21.145+0530] {processor.py:186} INFO - Started process (PID=17464) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-28T11:41:21.158+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-01-28T11:41:21.161+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:21.160+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-28T11:41:21.168+0530] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-28T11:41:21.179+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:21.179+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:41:21.192+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:21.192+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-01-28T11:41:21.206+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.066 seconds
+[2025-01-28T11:42:12.423+0530] {processor.py:186} INFO - Started process (PID=17649) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-28T11:42:12.436+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-01-28T11:42:12.439+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:12.439+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-28T11:42:12.446+0530] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-28T11:42:12.458+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:12.458+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:42:12.470+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:12.470+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-01-28T11:42:12.485+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.066 seconds
+[2025-01-28T11:43:04.974+0530] {processor.py:186} INFO - Started process (PID=17747) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-28T11:43:04.987+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-01-28T11:43:04.989+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:04.989+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-28T11:43:04.997+0530] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-28T11:43:05.009+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:05.008+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:43:05.022+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:05.022+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-01-28T11:43:05.037+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.068 seconds
+[2025-01-28T11:43:56.129+0530] {processor.py:186} INFO - Started process (PID=17908) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-28T11:43:56.141+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-01-28T11:43:56.143+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:56.143+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-28T11:43:56.151+0530] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-28T11:43:56.163+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:56.163+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:43:56.177+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:56.176+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-01-28T11:43:56.191+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.067 seconds
+[2025-01-28T11:44:46.295+0530] {processor.py:186} INFO - Started process (PID=18136) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-28T11:44:46.308+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-01-28T11:44:46.315+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:46.315+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-28T11:44:46.323+0530] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-28T11:44:46.336+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:46.336+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:44:46.351+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:46.351+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-01-28T11:44:46.371+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.083 seconds
+[2025-01-28T11:45:39.600+0530] {processor.py:186} INFO - Started process (PID=18318) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-28T11:45:39.613+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-01-28T11:45:39.619+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:39.619+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-28T11:45:39.627+0530] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-28T11:45:39.640+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:39.640+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:45:39.655+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:39.655+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-01-28T11:45:39.675+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.083 seconds
+[2025-01-28T11:46:32.914+0530] {processor.py:186} INFO - Started process (PID=18475) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-28T11:46:32.926+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-01-28T11:46:32.928+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:32.928+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-28T11:46:32.936+0530] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-28T11:46:32.948+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:32.947+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:46:32.961+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:32.960+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-01-28T11:46:32.974+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.066 seconds
+[2025-01-28T11:47:24.926+0530] {processor.py:186} INFO - Started process (PID=18873) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-28T11:47:24.939+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-01-28T11:47:24.941+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:24.941+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-28T11:47:24.948+0530] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-28T11:47:24.960+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:24.960+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:47:24.974+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:24.974+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-01-28T11:47:24.990+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.068 seconds
+[2025-01-28T11:48:17.611+0530] {processor.py:186} INFO - Started process (PID=19090) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-28T11:48:17.624+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-01-28T11:48:17.626+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:17.625+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-28T11:48:17.633+0530] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-28T11:48:17.647+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:17.647+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:48:17.662+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:17.662+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-01-28T11:48:17.677+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.070 seconds
+[2025-01-28T11:49:10.259+0530] {processor.py:186} INFO - Started process (PID=19331) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-28T11:49:10.271+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-01-28T11:49:10.274+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:10.273+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-28T11:49:10.281+0530] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-28T11:49:10.293+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:10.293+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:49:10.306+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:10.306+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-01-28T11:49:10.322+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.068 seconds
+[2025-01-28T11:49:59.405+0530] {processor.py:186} INFO - Started process (PID=19662) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-28T11:49:59.417+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-01-28T11:49:59.419+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:59.419+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-28T11:49:59.427+0530] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-28T11:49:59.439+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:59.439+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:49:59.452+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:59.452+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-01-28T11:49:59.465+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.065 seconds
+[2025-01-28T11:50:49.090+0530] {processor.py:186} INFO - Started process (PID=19823) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-28T11:50:49.102+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-01-28T11:50:49.106+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:49.105+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-28T11:50:49.113+0530] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-28T11:50:49.126+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:49.126+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:50:49.141+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:49.141+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-01-28T11:50:49.156+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.071 seconds
+[2025-01-28T11:51:40.200+0530] {processor.py:186} INFO - Started process (PID=20014) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-28T11:51:40.206+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-01-28T11:51:40.209+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:40.208+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-28T11:51:40.216+0530] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-28T11:51:40.228+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:40.228+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:51:40.241+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:40.241+0530] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-01-28T11:51:40.254+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.059 seconds

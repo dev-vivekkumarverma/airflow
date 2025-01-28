@@ -1,0 +1,113 @@
+[2025-01-28T11:39:50.533+0530] {processor.py:186} INFO - Started process (PID=17153) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-01-28T11:39:50.534+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-01-28T11:39:50.536+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:50.536+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-01-28T11:39:50.546+0530] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-01-28T11:39:50.668+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:50.668+0530] {override.py:1912} INFO - Created Permission View: can read on DAG:example_params_trigger_ui
+[2025-01-28T11:39:50.675+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:50.675+0530] {override.py:1912} INFO - Created Permission View: can edit on DAG:example_params_trigger_ui
+[2025-01-28T11:39:50.681+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:50.681+0530] {override.py:1912} INFO - Created Permission View: can delete on DAG:example_params_trigger_ui
+[2025-01-28T11:39:50.689+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:50.689+0530] {override.py:1912} INFO - Created Permission View: can read on DAG Run:example_params_trigger_ui
+[2025-01-28T11:39:50.695+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:50.694+0530] {override.py:1912} INFO - Created Permission View: can delete on DAG Run:example_params_trigger_ui
+[2025-01-28T11:39:50.700+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:50.700+0530] {override.py:1912} INFO - Created Permission View: menu access on DAG Run:example_params_trigger_ui
+[2025-01-28T11:39:50.705+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:50.705+0530] {override.py:1912} INFO - Created Permission View: can create on DAG Run:example_params_trigger_ui
+[2025-01-28T11:39:50.705+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:50.705+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:39:50.714+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:50.713+0530] {dag.py:3262} INFO - Creating ORM DAG for example_params_trigger_ui
+[2025-01-28T11:39:50.714+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:50.714+0530] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-01-28T11:39:50.730+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.201 seconds
+[2025-01-28T11:40:51.459+0530] {processor.py:186} INFO - Started process (PID=17346) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-01-28T11:40:51.472+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-01-28T11:40:51.474+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:51.474+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-01-28T11:40:51.483+0530] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-01-28T11:40:51.508+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:51.508+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:40:51.517+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:51.517+0530] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-01-28T11:40:51.535+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.080 seconds
+[2025-01-28T11:41:45.424+0530] {processor.py:186} INFO - Started process (PID=17512) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-01-28T11:41:45.436+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-01-28T11:41:45.439+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:45.439+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-01-28T11:41:45.447+0530] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-01-28T11:41:45.473+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:45.472+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:41:45.481+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:45.481+0530] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-01-28T11:41:45.496+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.076 seconds
+[2025-01-28T11:42:42.141+0530] {processor.py:186} INFO - Started process (PID=17706) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-01-28T11:42:42.142+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-01-28T11:42:42.143+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:42.143+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-01-28T11:42:42.152+0530] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-01-28T11:42:42.178+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:42.178+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:42:42.187+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:42.186+0530] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-01-28T11:42:42.201+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.065 seconds
+[2025-01-28T11:43:32.418+0530] {processor.py:186} INFO - Started process (PID=17866) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-01-28T11:43:32.419+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-01-28T11:43:32.421+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:32.421+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-01-28T11:43:32.431+0530] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-01-28T11:43:32.456+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:32.456+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:43:32.464+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:32.464+0530] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-01-28T11:43:32.478+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.066 seconds
+[2025-01-28T11:44:21.985+0530] {processor.py:186} INFO - Started process (PID=18078) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-01-28T11:44:21.997+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-01-28T11:44:22.000+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:22.000+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-01-28T11:44:22.009+0530] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-01-28T11:44:22.034+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:22.034+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:44:22.042+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:22.042+0530] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-01-28T11:44:22.056+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.076 seconds
+[2025-01-28T11:45:14.233+0530] {processor.py:186} INFO - Started process (PID=18272) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-01-28T11:45:14.245+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-01-28T11:45:14.247+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:14.246+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-01-28T11:45:14.258+0530] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-01-28T11:45:14.290+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:14.290+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:45:14.300+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:14.300+0530] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-01-28T11:45:14.317+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.090 seconds
+[2025-01-28T11:46:09.901+0530] {processor.py:186} INFO - Started process (PID=18403) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-01-28T11:46:09.914+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-01-28T11:46:09.916+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:09.915+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-01-28T11:46:09.926+0530] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-01-28T11:46:09.952+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:09.952+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:46:09.967+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:09.967+0530] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-01-28T11:46:09.986+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.089 seconds
+[2025-01-28T11:47:01.848+0530] {processor.py:186} INFO - Started process (PID=18577) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-01-28T11:47:01.861+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-01-28T11:47:01.863+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:01.863+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-01-28T11:47:01.872+0530] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-01-28T11:47:01.901+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:01.901+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:47:01.910+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:01.910+0530] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-01-28T11:47:01.924+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.082 seconds
+[2025-01-28T11:47:53.692+0530] {processor.py:186} INFO - Started process (PID=18935) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-01-28T11:47:53.695+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-01-28T11:47:53.697+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:53.696+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-01-28T11:47:53.706+0530] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-01-28T11:47:53.731+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:53.730+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:47:53.739+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:53.739+0530] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-01-28T11:47:53.766+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.078 seconds
+[2025-01-28T11:48:47.329+0530] {processor.py:186} INFO - Started process (PID=19145) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-01-28T11:48:47.341+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-01-28T11:48:47.344+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:47.344+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-01-28T11:48:47.353+0530] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-01-28T11:48:47.378+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:47.377+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:48:47.386+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:47.386+0530] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-01-28T11:48:47.401+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.076 seconds
+[2025-01-28T11:49:37.692+0530] {processor.py:186} INFO - Started process (PID=19518) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-01-28T11:49:37.693+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-01-28T11:49:37.694+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:37.694+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-01-28T11:49:37.703+0530] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-01-28T11:49:37.728+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:37.728+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:49:37.737+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:37.737+0530] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-01-28T11:49:37.752+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.065 seconds
+[2025-01-28T11:50:26.246+0530] {processor.py:186} INFO - Started process (PID=19784) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-01-28T11:50:26.258+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-01-28T11:50:26.261+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:26.260+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-01-28T11:50:26.269+0530] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-01-28T11:50:26.295+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:26.294+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:50:26.303+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:26.303+0530] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-01-28T11:50:26.318+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.076 seconds
+[2025-01-28T11:51:15.764+0530] {processor.py:186} INFO - Started process (PID=19954) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-01-28T11:51:15.776+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-01-28T11:51:15.778+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:15.778+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-01-28T11:51:15.787+0530] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-01-28T11:51:15.812+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:15.812+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:51:15.820+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:15.820+0530] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-01-28T11:51:15.834+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.075 seconds
+[2025-01-28T11:52:08.779+0530] {processor.py:186} INFO - Started process (PID=20414) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-01-28T11:52:08.780+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-01-28T11:52:08.782+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:52:08.782+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-01-28T11:52:08.791+0530] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-01-28T11:52:08.816+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:52:08.815+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:52:08.824+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:52:08.824+0530] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-01-28T11:52:08.838+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.064 seconds

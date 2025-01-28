@@ -1,0 +1,85 @@
+[2025-01-28T11:40:09.360+0530] {processor.py:186} INFO - Started process (PID=17215) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-01-28T11:40:09.361+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py for tasks to queue
+[2025-01-28T11:40:09.363+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:09.362+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-01-28T11:40:09.378+0530] {processor.py:925} INFO - DAG(s) 'example_bash_decorator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-01-28T11:40:09.491+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:09.491+0530] {override.py:1912} INFO - Created Permission View: can read on DAG:example_bash_decorator
+[2025-01-28T11:40:09.501+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:09.501+0530] {override.py:1912} INFO - Created Permission View: can edit on DAG:example_bash_decorator
+[2025-01-28T11:40:09.506+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:09.506+0530] {override.py:1912} INFO - Created Permission View: can delete on DAG:example_bash_decorator
+[2025-01-28T11:40:09.515+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:09.515+0530] {override.py:1912} INFO - Created Permission View: can read on DAG Run:example_bash_decorator
+[2025-01-28T11:40:09.520+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:09.520+0530] {override.py:1912} INFO - Created Permission View: can delete on DAG Run:example_bash_decorator
+[2025-01-28T11:40:09.525+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:09.524+0530] {override.py:1912} INFO - Created Permission View: menu access on DAG Run:example_bash_decorator
+[2025-01-28T11:40:09.530+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:09.530+0530] {override.py:1912} INFO - Created Permission View: can create on DAG Run:example_bash_decorator
+[2025-01-28T11:40:09.530+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:09.530+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:40:09.538+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:09.538+0530] {dag.py:3262} INFO - Creating ORM DAG for example_bash_decorator
+[2025-01-28T11:40:09.538+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:09.538+0530] {dag.py:4180} INFO - Setting next_dagrun for example_bash_decorator to None, run_after=None
+[2025-01-28T11:40:09.551+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py took 0.196 seconds
+[2025-01-28T11:41:05.914+0530] {processor.py:186} INFO - Started process (PID=17374) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-01-28T11:41:05.926+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py for tasks to queue
+[2025-01-28T11:41:05.928+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:05.928+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-01-28T11:41:05.944+0530] {processor.py:925} INFO - DAG(s) 'example_bash_decorator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-01-28T11:41:05.957+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:05.957+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:41:05.965+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:05.965+0530] {dag.py:4180} INFO - Setting next_dagrun for example_bash_decorator to None, run_after=None
+[2025-01-28T11:41:05.979+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py took 0.070 seconds
+[2025-01-28T11:42:22.711+0530] {processor.py:186} INFO - Started process (PID=17669) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-01-28T11:42:22.712+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py for tasks to queue
+[2025-01-28T11:42:22.714+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:22.713+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-01-28T11:42:22.729+0530] {processor.py:925} INFO - DAG(s) 'example_bash_decorator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-01-28T11:42:22.744+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:22.744+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:42:22.752+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:22.752+0530] {dag.py:4180} INFO - Setting next_dagrun for example_bash_decorator to None, run_after=None
+[2025-01-28T11:42:22.778+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py took 0.072 seconds
+[2025-01-28T11:43:16.990+0530] {processor.py:186} INFO - Started process (PID=17831) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-01-28T11:43:17.003+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py for tasks to queue
+[2025-01-28T11:43:17.005+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:17.005+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-01-28T11:43:17.022+0530] {processor.py:925} INFO - DAG(s) 'example_bash_decorator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-01-28T11:43:17.035+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:17.035+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:43:17.043+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:17.043+0530] {dag.py:4180} INFO - Setting next_dagrun for example_bash_decorator to None, run_after=None
+[2025-01-28T11:43:17.057+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py took 0.073 seconds
+[2025-01-28T11:44:33.077+0530] {processor.py:186} INFO - Started process (PID=18104) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-01-28T11:44:33.090+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py for tasks to queue
+[2025-01-28T11:44:33.093+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:33.092+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-01-28T11:44:33.108+0530] {processor.py:925} INFO - DAG(s) 'example_bash_decorator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-01-28T11:44:33.122+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:33.122+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:44:33.130+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:33.130+0530] {dag.py:4180} INFO - Setting next_dagrun for example_bash_decorator to None, run_after=None
+[2025-01-28T11:44:33.144+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py took 0.071 seconds
+[2025-01-28T11:45:50.886+0530] {processor.py:186} INFO - Started process (PID=18339) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-01-28T11:45:50.900+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py for tasks to queue
+[2025-01-28T11:45:50.902+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:50.902+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-01-28T11:45:50.919+0530] {processor.py:925} INFO - DAG(s) 'example_bash_decorator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-01-28T11:45:50.933+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:50.933+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:45:50.942+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:50.941+0530] {dag.py:4180} INFO - Setting next_dagrun for example_bash_decorator to None, run_after=None
+[2025-01-28T11:45:50.965+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py took 0.083 seconds
+[2025-01-28T11:46:47.848+0530] {processor.py:186} INFO - Started process (PID=18561) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-01-28T11:46:47.850+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py for tasks to queue
+[2025-01-28T11:46:47.851+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:47.851+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-01-28T11:46:47.868+0530] {processor.py:925} INFO - DAG(s) 'example_bash_decorator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-01-28T11:46:47.889+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:47.889+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:46:47.897+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:47.897+0530] {dag.py:4180} INFO - Setting next_dagrun for example_bash_decorator to None, run_after=None
+[2025-01-28T11:46:47.910+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py took 0.066 seconds
+[2025-01-28T11:48:05.081+0530] {processor.py:186} INFO - Started process (PID=18963) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-01-28T11:48:05.082+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py for tasks to queue
+[2025-01-28T11:48:05.084+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:05.084+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-01-28T11:48:05.099+0530] {processor.py:925} INFO - DAG(s) 'example_bash_decorator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-01-28T11:48:05.112+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:05.112+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:48:05.120+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:05.120+0530] {dag.py:4180} INFO - Setting next_dagrun for example_bash_decorator to None, run_after=None
+[2025-01-28T11:48:05.133+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py took 0.057 seconds
+[2025-01-28T11:49:22.592+0530] {processor.py:186} INFO - Started process (PID=19441) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-01-28T11:49:22.593+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py for tasks to queue
+[2025-01-28T11:49:22.594+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:22.594+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-01-28T11:49:22.611+0530] {processor.py:925} INFO - DAG(s) 'example_bash_decorator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-01-28T11:49:22.625+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:22.624+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:49:22.634+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:22.634+0530] {dag.py:4180} INFO - Setting next_dagrun for example_bash_decorator to None, run_after=None
+[2025-01-28T11:49:22.648+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py took 0.061 seconds
+[2025-01-28T11:50:35.021+0530] {processor.py:186} INFO - Started process (PID=19797) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-01-28T11:50:35.023+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py for tasks to queue
+[2025-01-28T11:50:35.024+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:35.024+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-01-28T11:50:35.040+0530] {processor.py:925} INFO - DAG(s) 'example_bash_decorator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-01-28T11:50:35.052+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:35.052+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:50:35.060+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:35.060+0530] {dag.py:4180} INFO - Setting next_dagrun for example_bash_decorator to None, run_after=None
+[2025-01-28T11:50:35.073+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py took 0.057 seconds
+[2025-01-28T11:51:52.220+0530] {processor.py:186} INFO - Started process (PID=20141) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-01-28T11:51:52.221+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py for tasks to queue
+[2025-01-28T11:51:52.223+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:52.223+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-01-28T11:51:52.239+0530] {processor.py:925} INFO - DAG(s) 'example_bash_decorator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-01-28T11:51:52.253+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:52.253+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:51:52.261+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:52.261+0530] {dag.py:4180} INFO - Setting next_dagrun for example_bash_decorator to None, run_after=None
+[2025-01-28T11:51:52.277+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_bash_decorator.py took 0.062 seconds

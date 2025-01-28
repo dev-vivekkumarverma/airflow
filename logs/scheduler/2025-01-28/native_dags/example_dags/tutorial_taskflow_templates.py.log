@@ -1,0 +1,113 @@
+[2025-01-28T11:39:26.769+0530] {processor.py:186} INFO - Started process (PID=17109) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-01-28T11:39:26.769+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py for tasks to queue
+[2025-01-28T11:39:26.771+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:26.771+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-01-28T11:39:26.794+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_templates' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-01-28T11:39:26.902+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:26.901+0530] {override.py:1912} INFO - Created Permission View: can read on DAG:tutorial_taskflow_templates
+[2025-01-28T11:39:26.909+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:26.908+0530] {override.py:1912} INFO - Created Permission View: can edit on DAG:tutorial_taskflow_templates
+[2025-01-28T11:39:26.914+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:26.914+0530] {override.py:1912} INFO - Created Permission View: can delete on DAG:tutorial_taskflow_templates
+[2025-01-28T11:39:26.924+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:26.923+0530] {override.py:1912} INFO - Created Permission View: can read on DAG Run:tutorial_taskflow_templates
+[2025-01-28T11:39:26.929+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:26.928+0530] {override.py:1912} INFO - Created Permission View: can delete on DAG Run:tutorial_taskflow_templates
+[2025-01-28T11:39:26.934+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:26.933+0530] {override.py:1912} INFO - Created Permission View: menu access on DAG Run:tutorial_taskflow_templates
+[2025-01-28T11:39:26.939+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:26.938+0530] {override.py:1912} INFO - Created Permission View: can create on DAG Run:tutorial_taskflow_templates
+[2025-01-28T11:39:26.939+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:26.939+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:39:26.947+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:26.947+0530] {dag.py:3262} INFO - Creating ORM DAG for tutorial_taskflow_templates
+[2025-01-28T11:39:26.953+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:26.953+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_templates to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:39:26.967+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py took 0.203 seconds
+[2025-01-28T11:40:26.502+0530] {processor.py:186} INFO - Started process (PID=17297) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-01-28T11:40:26.514+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py for tasks to queue
+[2025-01-28T11:40:26.517+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:26.516+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-01-28T11:40:26.527+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_templates' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-01-28T11:40:26.540+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:26.540+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:40:26.555+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:26.555+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_templates to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:40:26.572+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py took 0.075 seconds
+[2025-01-28T11:41:20.012+0530] {processor.py:186} INFO - Started process (PID=17463) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-01-28T11:41:20.024+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py for tasks to queue
+[2025-01-28T11:41:20.026+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:20.026+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-01-28T11:41:20.036+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_templates' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-01-28T11:41:20.048+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:20.048+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:41:20.062+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:20.062+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_templates to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:41:20.075+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py took 0.069 seconds
+[2025-01-28T11:42:11.289+0530] {processor.py:186} INFO - Started process (PID=17644) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-01-28T11:42:11.301+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py for tasks to queue
+[2025-01-28T11:42:11.304+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:11.303+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-01-28T11:42:11.314+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_templates' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-01-28T11:42:11.325+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:11.325+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:42:11.339+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:11.339+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_templates to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:42:11.354+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py took 0.070 seconds
+[2025-01-28T11:43:03.839+0530] {processor.py:186} INFO - Started process (PID=17746) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-01-28T11:43:03.852+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py for tasks to queue
+[2025-01-28T11:43:03.854+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:03.854+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-01-28T11:43:03.864+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_templates' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-01-28T11:43:03.876+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:03.876+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:43:03.891+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:03.891+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_templates to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:43:03.904+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py took 0.070 seconds
+[2025-01-28T11:43:54.998+0530] {processor.py:186} INFO - Started process (PID=17907) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-01-28T11:43:55.010+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py for tasks to queue
+[2025-01-28T11:43:55.013+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:55.013+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-01-28T11:43:55.025+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_templates' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-01-28T11:43:55.041+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:55.041+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:43:55.056+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:55.056+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_templates to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:43:55.069+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py took 0.077 seconds
+[2025-01-28T11:44:45.155+0530] {processor.py:186} INFO - Started process (PID=18135) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-01-28T11:44:45.167+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py for tasks to queue
+[2025-01-28T11:44:45.169+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:45.169+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-01-28T11:44:45.182+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_templates' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-01-28T11:44:45.198+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:45.197+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:44:45.214+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:45.214+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_templates to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:44:45.231+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py took 0.082 seconds
+[2025-01-28T11:45:39.170+0530] {processor.py:186} INFO - Started process (PID=18317) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-01-28T11:45:39.182+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py for tasks to queue
+[2025-01-28T11:45:39.184+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:39.184+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-01-28T11:45:39.198+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_templates' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-01-28T11:45:39.213+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:39.213+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:45:39.232+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:39.231+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_templates to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:45:39.251+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py took 0.086 seconds
+[2025-01-28T11:46:32.475+0530] {processor.py:186} INFO - Started process (PID=18474) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-01-28T11:46:32.487+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py for tasks to queue
+[2025-01-28T11:46:32.490+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:32.489+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-01-28T11:46:32.500+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_templates' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-01-28T11:46:32.511+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:32.511+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:46:32.526+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:32.525+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_templates to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:46:32.539+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py took 0.068 seconds
+[2025-01-28T11:47:23.774+0530] {processor.py:186} INFO - Started process (PID=18837) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-01-28T11:47:23.787+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py for tasks to queue
+[2025-01-28T11:47:23.789+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:23.789+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-01-28T11:47:23.799+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_templates' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-01-28T11:47:23.810+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:23.810+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:47:23.825+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:23.825+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_templates to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:47:23.839+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py took 0.070 seconds
+[2025-01-28T11:48:16.477+0530] {processor.py:186} INFO - Started process (PID=19089) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-01-28T11:48:16.489+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py for tasks to queue
+[2025-01-28T11:48:16.492+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:16.491+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-01-28T11:48:16.502+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_templates' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-01-28T11:48:16.513+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:16.513+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:48:16.527+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:16.527+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_templates to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:48:16.542+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py took 0.070 seconds
+[2025-01-28T11:49:09.125+0530] {processor.py:186} INFO - Started process (PID=19305) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-01-28T11:49:09.137+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py for tasks to queue
+[2025-01-28T11:49:09.139+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:09.139+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-01-28T11:49:09.149+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_templates' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-01-28T11:49:09.160+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:09.160+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:49:09.174+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:09.174+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_templates to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:49:09.188+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py took 0.068 seconds
+[2025-01-28T11:49:58.261+0530] {processor.py:186} INFO - Started process (PID=19661) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-01-28T11:49:58.272+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py for tasks to queue
+[2025-01-28T11:49:58.275+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:58.275+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-01-28T11:49:58.288+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_templates' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-01-28T11:49:58.301+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:58.301+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:49:58.317+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:58.317+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_templates to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:49:58.331+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py took 0.075 seconds
+[2025-01-28T11:50:47.954+0530] {processor.py:186} INFO - Started process (PID=19822) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-01-28T11:50:47.966+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py for tasks to queue
+[2025-01-28T11:50:47.968+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:47.968+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-01-28T11:50:47.978+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_templates' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-01-28T11:50:47.990+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:47.990+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:50:48.003+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:48.003+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_templates to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:50:48.018+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py took 0.068 seconds
+[2025-01-28T11:51:39.066+0530] {processor.py:186} INFO - Started process (PID=20006) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-01-28T11:51:39.079+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py for tasks to queue
+[2025-01-28T11:51:39.081+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:39.081+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-01-28T11:51:39.091+0530] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_templates' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py
+[2025-01-28T11:51:39.104+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:39.103+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:51:39.119+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:39.119+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_templates to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:51:39.135+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_templates.py took 0.074 seconds

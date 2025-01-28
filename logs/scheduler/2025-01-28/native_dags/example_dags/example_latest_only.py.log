@@ -1,0 +1,92 @@
+[2025-01-28T11:40:02.769+0530] {processor.py:186} INFO - Started process (PID=17175) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2025-01-28T11:40:02.770+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-01-28T11:40:02.772+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:02.771+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2025-01-28T11:40:02.778+0530] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2025-01-28T11:40:02.880+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:02.879+0530] {override.py:1912} INFO - Created Permission View: can read on DAG:latest_only
+[2025-01-28T11:40:02.887+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:02.887+0530] {override.py:1912} INFO - Created Permission View: can edit on DAG:latest_only
+[2025-01-28T11:40:02.892+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:02.892+0530] {override.py:1912} INFO - Created Permission View: can delete on DAG:latest_only
+[2025-01-28T11:40:02.900+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:02.900+0530] {override.py:1912} INFO - Created Permission View: can read on DAG Run:latest_only
+[2025-01-28T11:40:02.905+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:02.905+0530] {override.py:1912} INFO - Created Permission View: can delete on DAG Run:latest_only
+[2025-01-28T11:40:02.910+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:02.910+0530] {override.py:1912} INFO - Created Permission View: menu access on DAG Run:latest_only
+[2025-01-28T11:40:02.915+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:02.914+0530] {override.py:1912} INFO - Created Permission View: can create on DAG Run:latest_only
+[2025-01-28T11:40:02.915+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:02.915+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:40:02.922+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:02.922+0530] {dag.py:3262} INFO - Creating ORM DAG for latest_only
+[2025-01-28T11:40:02.928+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:02.928+0530] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-01-28 00:00:00+00:00, run_after=2025-01-28 04:00:00+00:00
+[2025-01-28T11:40:02.941+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.176 seconds
+[2025-01-28T11:41:00.043+0530] {processor.py:186} INFO - Started process (PID=17364) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2025-01-28T11:41:00.055+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-01-28T11:41:00.057+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:00.057+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2025-01-28T11:41:00.063+0530] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2025-01-28T11:41:00.074+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:00.074+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:41:00.088+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:00.088+0530] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-01-28 00:00:00+00:00, run_after=2025-01-28 04:00:00+00:00
+[2025-01-28T11:41:00.102+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.064 seconds
+[2025-01-28T11:41:56.003+0530] {processor.py:186} INFO - Started process (PID=17530) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2025-01-28T11:41:56.016+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-01-28T11:41:56.018+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:56.017+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2025-01-28T11:41:56.024+0530] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2025-01-28T11:41:56.035+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:56.035+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:41:56.049+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:56.049+0530] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-01-28 00:00:00+00:00, run_after=2025-01-28 04:00:00+00:00
+[2025-01-28T11:41:56.062+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.064 seconds
+[2025-01-28T11:42:51.281+0530] {processor.py:186} INFO - Started process (PID=17720) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2025-01-28T11:42:51.294+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-01-28T11:42:51.296+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:51.296+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2025-01-28T11:42:51.302+0530] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2025-01-28T11:42:51.313+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:51.313+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:42:51.327+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:51.327+0530] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-01-28 00:00:00+00:00, run_after=2025-01-28 04:00:00+00:00
+[2025-01-28T11:42:51.341+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.065 seconds
+[2025-01-28T11:44:07.542+0530] {processor.py:186} INFO - Started process (PID=17933) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2025-01-28T11:44:07.555+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-01-28T11:44:07.557+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:07.557+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2025-01-28T11:44:07.563+0530] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2025-01-28T11:44:07.578+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:07.577+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:44:07.602+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:07.602+0530] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-01-28 00:00:00+00:00, run_after=2025-01-28 04:00:00+00:00
+[2025-01-28T11:44:07.631+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.093 seconds
+[2025-01-28T11:45:24.741+0530] {processor.py:186} INFO - Started process (PID=18290) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2025-01-28T11:45:24.742+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-01-28T11:45:24.744+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:24.743+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2025-01-28T11:45:24.753+0530] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2025-01-28T11:45:24.769+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:24.769+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:45:24.790+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:24.790+0530] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-01-28 00:00:00+00:00, run_after=2025-01-28 04:00:00+00:00
+[2025-01-28T11:45:24.810+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.074 seconds
+[2025-01-28T11:46:41.569+0530] {processor.py:186} INFO - Started process (PID=18498) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2025-01-28T11:46:41.582+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-01-28T11:46:41.584+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:41.583+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2025-01-28T11:46:41.590+0530] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2025-01-28T11:46:41.601+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:41.601+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:46:41.614+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:41.614+0530] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-01-28 00:00:00+00:00, run_after=2025-01-28 04:00:00+00:00
+[2025-01-28T11:46:41.628+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.063 seconds
+[2025-01-28T11:47:35.228+0530] {processor.py:186} INFO - Started process (PID=18893) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2025-01-28T11:47:35.240+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-01-28T11:47:35.242+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:35.241+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2025-01-28T11:47:35.248+0530] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2025-01-28T11:47:35.260+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:35.259+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:47:35.274+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:35.273+0530] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-01-28 00:00:00+00:00, run_after=2025-01-28 04:00:00+00:00
+[2025-01-28T11:47:35.293+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.070 seconds
+[2025-01-28T11:48:27.899+0530] {processor.py:186} INFO - Started process (PID=19110) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2025-01-28T11:48:27.911+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-01-28T11:48:27.913+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:27.913+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2025-01-28T11:48:27.919+0530] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2025-01-28T11:48:27.930+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:27.930+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:48:27.944+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:27.944+0530] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-01-28 00:00:00+00:00, run_after=2025-01-28 04:00:00+00:00
+[2025-01-28T11:48:27.959+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.065 seconds
+[2025-01-28T11:49:19.319+0530] {processor.py:186} INFO - Started process (PID=19437) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2025-01-28T11:49:19.330+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-01-28T11:49:19.333+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:19.332+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2025-01-28T11:49:19.339+0530] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2025-01-28T11:49:19.350+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:19.350+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:49:19.363+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:19.363+0530] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-01-28 00:00:00+00:00, run_after=2025-01-28 04:00:00+00:00
+[2025-01-28T11:49:19.377+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.063 seconds
+[2025-01-28T11:50:31.388+0530] {processor.py:186} INFO - Started process (PID=19793) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2025-01-28T11:50:31.389+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-01-28T11:50:31.391+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:31.390+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2025-01-28T11:50:31.397+0530] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2025-01-28T11:50:31.408+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:31.408+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:50:31.421+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:31.421+0530] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-01-28 00:00:00+00:00, run_after=2025-01-28 04:00:00+00:00
+[2025-01-28T11:50:31.435+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.052 seconds
+[2025-01-28T11:51:23.726+0530] {processor.py:186} INFO - Started process (PID=19965) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2025-01-28T11:51:23.739+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-01-28T11:51:23.741+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:23.741+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2025-01-28T11:51:23.747+0530] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2025-01-28T11:51:23.758+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:23.758+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:51:23.771+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:23.771+0530] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-01-28 00:00:00+00:00, run_after=2025-01-28 04:00:00+00:00
+[2025-01-28T11:51:23.785+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.064 seconds

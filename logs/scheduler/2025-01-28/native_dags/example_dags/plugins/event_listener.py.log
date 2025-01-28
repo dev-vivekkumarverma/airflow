@@ -1,0 +1,75 @@
+[2025-01-28T11:39:15.152+0530] {processor.py:186} INFO - Started process (PID=16963) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-01-28T11:39:15.153+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-01-28T11:39:15.155+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:15.154+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-01-28T11:39:15.156+0530] {processor.py:927} WARNING - No viable dags retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-01-28T11:39:15.165+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py took 0.017 seconds
+[2025-01-28T11:40:15.228+0530] {processor.py:186} INFO - Started process (PID=17267) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-01-28T11:40:15.241+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-01-28T11:40:15.243+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:15.243+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-01-28T11:40:15.245+0530] {processor.py:927} WARNING - No viable dags retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-01-28T11:40:15.254+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py took 0.030 seconds
+[2025-01-28T11:41:10.865+0530] {processor.py:186} INFO - Started process (PID=17443) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-01-28T11:41:10.877+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-01-28T11:41:10.879+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:10.879+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-01-28T11:41:10.881+0530] {processor.py:927} WARNING - No viable dags retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-01-28T11:41:10.888+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py took 0.028 seconds
+[2025-01-28T11:42:00.001+0530] {processor.py:186} INFO - Started process (PID=17548) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-01-28T11:42:00.003+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-01-28T11:42:00.005+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:00.004+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-01-28T11:42:00.007+0530] {processor.py:927} WARNING - No viable dags retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-01-28T11:42:00.015+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py took 0.018 seconds
+[2025-01-28T11:42:53.558+0530] {processor.py:186} INFO - Started process (PID=17726) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-01-28T11:42:53.570+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-01-28T11:42:53.573+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:53.572+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-01-28T11:42:53.575+0530] {processor.py:927} WARNING - No viable dags retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-01-28T11:42:53.584+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py took 0.032 seconds
+[2025-01-28T11:43:43.717+0530] {processor.py:186} INFO - Started process (PID=17888) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-01-28T11:43:43.729+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-01-28T11:43:43.732+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:43.732+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-01-28T11:43:43.734+0530] {processor.py:927} WARNING - No viable dags retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-01-28T11:43:43.742+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py took 0.030 seconds
+[2025-01-28T11:44:33.844+0530] {processor.py:186} INFO - Started process (PID=18105) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-01-28T11:44:33.857+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-01-28T11:44:33.859+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:33.858+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-01-28T11:44:33.860+0530] {processor.py:927} WARNING - No viable dags retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-01-28T11:44:33.868+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py took 0.028 seconds
+[2025-01-28T11:45:27.722+0530] {processor.py:186} INFO - Started process (PID=18297) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-01-28T11:45:27.735+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-01-28T11:45:27.740+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:27.740+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-01-28T11:45:27.742+0530] {processor.py:927} WARNING - No viable dags retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-01-28T11:45:27.752+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py took 0.038 seconds
+[2025-01-28T11:46:21.298+0530] {processor.py:186} INFO - Started process (PID=18460) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-01-28T11:46:21.299+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-01-28T11:46:21.304+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:21.304+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-01-28T11:46:21.306+0530] {processor.py:927} WARNING - No viable dags retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-01-28T11:46:21.314+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py took 0.021 seconds
+[2025-01-28T11:47:13.481+0530] {processor.py:186} INFO - Started process (PID=18729) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-01-28T11:47:13.484+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-01-28T11:47:13.486+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:13.486+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-01-28T11:47:13.488+0530] {processor.py:927} WARNING - No viable dags retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-01-28T11:47:13.496+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py took 0.020 seconds
+[2025-01-28T11:48:06.225+0530] {processor.py:186} INFO - Started process (PID=18971) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-01-28T11:48:06.238+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-01-28T11:48:06.240+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:06.239+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-01-28T11:48:06.241+0530] {processor.py:927} WARNING - No viable dags retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-01-28T11:48:06.249+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py took 0.028 seconds
+[2025-01-28T11:48:58.845+0530] {processor.py:186} INFO - Started process (PID=19293) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-01-28T11:48:58.858+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-01-28T11:48:58.860+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:58.860+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-01-28T11:48:58.862+0530] {processor.py:927} WARNING - No viable dags retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-01-28T11:48:58.869+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py took 0.029 seconds
+[2025-01-28T11:49:47.977+0530] {processor.py:186} INFO - Started process (PID=19648) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-01-28T11:49:47.978+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-01-28T11:49:47.979+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:47.979+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-01-28T11:49:47.981+0530] {processor.py:927} WARNING - No viable dags retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-01-28T11:49:47.989+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py took 0.017 seconds
+[2025-01-28T11:50:36.161+0530] {processor.py:186} INFO - Started process (PID=19798) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-01-28T11:50:36.174+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-01-28T11:50:36.177+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:36.176+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-01-28T11:50:36.179+0530] {processor.py:927} WARNING - No viable dags retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-01-28T11:50:36.188+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py took 0.033 seconds
+[2025-01-28T11:51:28.787+0530] {processor.py:186} INFO - Started process (PID=19977) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-01-28T11:51:28.799+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-01-28T11:51:28.801+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:28.801+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-01-28T11:51:28.803+0530] {processor.py:927} WARNING - No viable dags retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-01-28T11:51:28.811+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py took 0.029 seconds

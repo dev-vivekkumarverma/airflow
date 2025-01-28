@@ -1,0 +1,113 @@
+[2025-01-28T11:39:39.716+0530] {processor.py:186} INFO - Started process (PID=17133) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-28T11:39:39.717+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-01-28T11:39:39.719+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:39.719+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-28T11:39:39.726+0530] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-28T11:39:39.833+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:39.833+0530] {override.py:1912} INFO - Created Permission View: can read on DAG:example_short_circuit_operator
+[2025-01-28T11:39:39.840+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:39.840+0530] {override.py:1912} INFO - Created Permission View: can edit on DAG:example_short_circuit_operator
+[2025-01-28T11:39:39.846+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:39.845+0530] {override.py:1912} INFO - Created Permission View: can delete on DAG:example_short_circuit_operator
+[2025-01-28T11:39:39.853+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:39.853+0530] {override.py:1912} INFO - Created Permission View: can read on DAG Run:example_short_circuit_operator
+[2025-01-28T11:39:39.860+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:39.859+0530] {override.py:1912} INFO - Created Permission View: can delete on DAG Run:example_short_circuit_operator
+[2025-01-28T11:39:39.865+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:39.864+0530] {override.py:1912} INFO - Created Permission View: menu access on DAG Run:example_short_circuit_operator
+[2025-01-28T11:39:39.869+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:39.869+0530] {override.py:1912} INFO - Created Permission View: can create on DAG Run:example_short_circuit_operator
+[2025-01-28T11:39:39.869+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:39.869+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:39:39.877+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:39.877+0530] {dag.py:3262} INFO - Creating ORM DAG for example_short_circuit_operator
+[2025-01-28T11:39:39.877+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:39.877+0530] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-01-28T11:39:39.889+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.178 seconds
+[2025-01-28T11:40:38.911+0530] {processor.py:186} INFO - Started process (PID=17325) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-28T11:40:38.912+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-01-28T11:40:38.914+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:38.914+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-28T11:40:38.921+0530] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-28T11:40:38.934+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:38.934+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:40:38.942+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:38.942+0530] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-01-28T11:40:38.959+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.053 seconds
+[2025-01-28T11:41:32.560+0530] {processor.py:186} INFO - Started process (PID=17483) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-28T11:41:32.572+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-01-28T11:41:32.575+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:32.575+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-28T11:41:32.582+0530] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-28T11:41:32.595+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:32.595+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:41:32.604+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:32.604+0530] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-01-28T11:41:32.619+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.064 seconds
+[2025-01-28T11:42:30.385+0530] {processor.py:186} INFO - Started process (PID=17681) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-28T11:42:30.397+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-01-28T11:42:30.399+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:30.399+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-28T11:42:30.406+0530] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-28T11:42:30.419+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:30.419+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:42:30.428+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:30.427+0530] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-01-28T11:42:30.441+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.061 seconds
+[2025-01-28T11:43:21.070+0530] {processor.py:186} INFO - Started process (PID=17841) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-28T11:43:21.083+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-01-28T11:43:21.085+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:21.084+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-28T11:43:21.092+0530] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-28T11:43:21.105+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:21.105+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:43:21.113+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:21.113+0530] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-01-28T11:43:21.127+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.061 seconds
+[2025-01-28T11:44:11.850+0530] {processor.py:186} INFO - Started process (PID=17998) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-28T11:44:11.863+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-01-28T11:44:11.865+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:11.865+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-28T11:44:11.873+0530] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-28T11:44:11.887+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:11.887+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:44:11.902+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:11.902+0530] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-01-28T11:44:11.922+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.077 seconds
+[2025-01-28T11:45:01.748+0530] {processor.py:186} INFO - Started process (PID=18176) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-28T11:45:01.749+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-01-28T11:45:01.751+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:01.751+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-28T11:45:01.765+0530] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-28T11:45:01.781+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:01.781+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:45:01.793+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:01.793+0530] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-01-28T11:45:01.809+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.067 seconds
+[2025-01-28T11:45:57.480+0530] {processor.py:186} INFO - Started process (PID=18357) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-28T11:45:57.493+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-01-28T11:45:57.496+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:57.496+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-28T11:45:57.503+0530] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-28T11:45:57.519+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:57.519+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:45:57.530+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:57.530+0530] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-01-28T11:45:57.551+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.080 seconds
+[2025-01-28T11:46:50.569+0530] {processor.py:186} INFO - Started process (PID=18565) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-28T11:46:50.581+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-01-28T11:46:50.584+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:50.583+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-28T11:46:50.591+0530] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-28T11:46:50.604+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:50.604+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:46:50.612+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:50.612+0530] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-01-28T11:46:50.626+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.061 seconds
+[2025-01-28T11:47:41.281+0530] {processor.py:186} INFO - Started process (PID=18908) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-28T11:47:41.289+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-01-28T11:47:41.291+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:41.291+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-28T11:47:41.298+0530] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-28T11:47:41.312+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:41.312+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:47:41.321+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:41.320+0530] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-01-28T11:47:41.350+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.073 seconds
+[2025-01-28T11:48:35.028+0530] {processor.py:186} INFO - Started process (PID=19125) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-28T11:48:35.040+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-01-28T11:48:35.042+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:35.042+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-28T11:48:35.050+0530] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-28T11:48:35.065+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:35.065+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:48:35.075+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:35.074+0530] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-01-28T11:48:35.091+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.069 seconds
+[2025-01-28T11:49:27.132+0530] {processor.py:186} INFO - Started process (PID=19445) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-28T11:49:27.145+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-01-28T11:49:27.147+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:27.147+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-28T11:49:27.155+0530] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-28T11:49:27.169+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:27.169+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:49:27.177+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:27.177+0530] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-01-28T11:49:27.191+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.063 seconds
+[2025-01-28T11:50:13.685+0530] {processor.py:186} INFO - Started process (PID=19759) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-28T11:50:13.697+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-01-28T11:50:13.699+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:13.699+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-28T11:50:13.707+0530] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-28T11:50:13.721+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:13.721+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:50:13.730+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:13.730+0530] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-01-28T11:50:13.745+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.066 seconds
+[2025-01-28T11:51:05.298+0530] {processor.py:186} INFO - Started process (PID=19854) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-28T11:51:05.311+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-01-28T11:51:05.313+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:05.313+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-28T11:51:05.320+0530] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-28T11:51:05.334+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:05.334+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:51:05.344+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:05.343+0530] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-01-28T11:51:05.358+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.065 seconds
+[2025-01-28T11:51:56.222+0530] {processor.py:186} INFO - Started process (PID=20290) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-28T11:51:56.235+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-01-28T11:51:56.237+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:56.237+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-28T11:51:56.245+0530] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-28T11:51:56.258+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:56.258+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:51:56.267+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:56.266+0530] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-01-28T11:51:56.280+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.064 seconds

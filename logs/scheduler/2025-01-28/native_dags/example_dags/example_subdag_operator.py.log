@@ -1,0 +1,190 @@
+[2025-01-28T11:39:32.113+0530] {processor.py:186} INFO - Started process (PID=17122) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-01-28T11:39:32.113+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-01-28T11:39:32.116+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:32.115+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-01-28T11:39:32.132+0530] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-01-28T11:39:32.240+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:32.240+0530] {override.py:1912} INFO - Created Permission View: can read on DAG:example_subdag_operator
+[2025-01-28T11:39:32.248+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:32.247+0530] {override.py:1912} INFO - Created Permission View: can edit on DAG:example_subdag_operator
+[2025-01-28T11:39:32.254+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:32.254+0530] {override.py:1912} INFO - Created Permission View: can delete on DAG:example_subdag_operator
+[2025-01-28T11:39:32.261+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:32.261+0530] {override.py:1912} INFO - Created Permission View: can read on DAG Run:example_subdag_operator
+[2025-01-28T11:39:32.266+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:32.266+0530] {override.py:1912} INFO - Created Permission View: can delete on DAG Run:example_subdag_operator
+[2025-01-28T11:39:32.271+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:32.270+0530] {override.py:1912} INFO - Created Permission View: menu access on DAG Run:example_subdag_operator
+[2025-01-28T11:39:32.275+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:32.275+0530] {override.py:1912} INFO - Created Permission View: can create on DAG Run:example_subdag_operator
+[2025-01-28T11:39:32.276+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:32.275+0530] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-01-28T11:39:32.283+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:32.283+0530] {dag.py:3262} INFO - Creating ORM DAG for example_subdag_operator.section-2
+[2025-01-28T11:39:32.283+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:32.283+0530] {dag.py:3262} INFO - Creating ORM DAG for example_subdag_operator.section-1
+[2025-01-28T11:39:32.283+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:32.283+0530] {dag.py:3262} INFO - Creating ORM DAG for example_subdag_operator
+[2025-01-28T11:39:32.288+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:32.288+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-01-28T11:39:32.289+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:32.289+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-01-28T11:39:32.289+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:32.289+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-01-28T11:39:32.293+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:32.293+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-01-28T11:39:32.297+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:32.297+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-01-28T11:39:32.298+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:32.298+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-01-28T11:39:32.309+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.200 seconds
+[2025-01-28T11:40:32.034+0530] {processor.py:186} INFO - Started process (PID=17309) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-01-28T11:40:32.046+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-01-28T11:40:32.049+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:32.048+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-01-28T11:40:32.066+0530] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-01-28T11:40:32.076+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:32.076+0530] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-01-28T11:40:32.090+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:32.090+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-01-28T11:40:32.092+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:32.092+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-01-28T11:40:32.093+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:32.093+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-01-28T11:40:32.097+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:32.097+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-01-28T11:40:32.100+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:32.100+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-01-28T11:40:32.100+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:32.100+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-01-28T11:40:32.110+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.081 seconds
+[2025-01-28T11:41:25.151+0530] {processor.py:186} INFO - Started process (PID=17472) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-01-28T11:41:25.152+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-01-28T11:41:25.153+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:25.153+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-01-28T11:41:25.170+0530] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-01-28T11:41:25.181+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:25.181+0530] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-01-28T11:41:25.194+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:25.194+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-01-28T11:41:25.197+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:25.196+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-01-28T11:41:25.197+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:25.197+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-01-28T11:41:25.202+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:25.202+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-01-28T11:41:25.205+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:25.205+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-01-28T11:41:25.205+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:25.205+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-01-28T11:41:25.214+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.068 seconds
+[2025-01-28T11:42:15.704+0530] {processor.py:186} INFO - Started process (PID=17653) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-01-28T11:42:15.716+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-01-28T11:42:15.719+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:15.718+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-01-28T11:42:15.735+0530] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-01-28T11:42:15.749+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:15.748+0530] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-01-28T11:42:15.762+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:15.762+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-01-28T11:42:15.764+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:15.764+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-01-28T11:42:15.765+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:15.765+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-01-28T11:42:15.769+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:15.769+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-01-28T11:42:15.772+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:15.771+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-01-28T11:42:15.772+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:15.772+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-01-28T11:42:15.782+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.083 seconds
+[2025-01-28T11:43:08.659+0530] {processor.py:186} INFO - Started process (PID=17757) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-01-28T11:43:08.672+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-01-28T11:43:08.674+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:08.674+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-01-28T11:43:08.692+0530] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-01-28T11:43:08.706+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:08.705+0530] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-01-28T11:43:08.723+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:08.723+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-01-28T11:43:08.725+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:08.725+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-01-28T11:43:08.725+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:08.725+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-01-28T11:43:08.730+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:08.730+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-01-28T11:43:08.733+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:08.733+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-01-28T11:43:08.733+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:08.733+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-01-28T11:43:08.744+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.090 seconds
+[2025-01-28T11:43:59.443+0530] {processor.py:186} INFO - Started process (PID=17916) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-01-28T11:43:59.456+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-01-28T11:43:59.458+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:59.457+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-01-28T11:43:59.474+0530] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-01-28T11:43:59.484+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:59.484+0530] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-01-28T11:43:59.501+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:59.500+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-01-28T11:43:59.503+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:59.503+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-01-28T11:43:59.503+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:59.503+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-01-28T11:43:59.508+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:59.508+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-01-28T11:43:59.510+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:59.510+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-01-28T11:43:59.511+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:59.510+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-01-28T11:43:59.519+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.081 seconds
+[2025-01-28T11:44:49.156+0530] {processor.py:186} INFO - Started process (PID=18140) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-01-28T11:44:49.157+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-01-28T11:44:49.163+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:49.163+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-01-28T11:44:49.186+0530] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-01-28T11:44:49.199+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:49.199+0530] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-01-28T11:44:49.218+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:49.218+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-01-28T11:44:49.220+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:49.220+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-01-28T11:44:49.221+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:49.221+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-01-28T11:44:49.230+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:49.230+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-01-28T11:44:49.233+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:49.233+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-01-28T11:44:49.233+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:49.233+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-01-28T11:44:49.245+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.095 seconds
+[2025-01-28T11:45:43.177+0530] {processor.py:186} INFO - Started process (PID=18326) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-01-28T11:45:43.190+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-01-28T11:45:43.192+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:43.192+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-01-28T11:45:43.214+0530] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-01-28T11:45:43.228+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:43.228+0530] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-01-28T11:45:43.247+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:43.246+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-01-28T11:45:43.250+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:43.249+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-01-28T11:45:43.250+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:43.250+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-01-28T11:45:43.255+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:43.254+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-01-28T11:45:43.257+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:43.257+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-01-28T11:45:43.257+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:43.257+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-01-28T11:45:43.268+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.096 seconds
+[2025-01-28T11:46:37.453+0530] {processor.py:186} INFO - Started process (PID=18479) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-01-28T11:46:37.455+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-01-28T11:46:37.457+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:37.456+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-01-28T11:46:37.473+0530] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-01-28T11:46:37.484+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:37.483+0530] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-01-28T11:46:37.497+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:37.496+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-01-28T11:46:37.499+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:37.499+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-01-28T11:46:37.499+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:37.499+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-01-28T11:46:37.504+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:37.503+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-01-28T11:46:37.506+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:37.506+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-01-28T11:46:37.506+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:37.506+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-01-28T11:46:37.515+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.067 seconds
+[2025-01-28T11:47:28.926+0530] {processor.py:186} INFO - Started process (PID=18883) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-01-28T11:47:28.938+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-01-28T11:47:28.940+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:28.940+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-01-28T11:47:28.958+0530] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-01-28T11:47:28.969+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:28.968+0530] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-01-28T11:47:28.983+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:28.982+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-01-28T11:47:28.985+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:28.985+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-01-28T11:47:28.985+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:28.985+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-01-28T11:47:28.990+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:28.989+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-01-28T11:47:28.992+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:28.992+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-01-28T11:47:28.992+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:28.992+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-01-28T11:47:29.004+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.084 seconds
+[2025-01-28T11:48:21.619+0530] {processor.py:186} INFO - Started process (PID=19099) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-01-28T11:48:21.631+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-01-28T11:48:21.634+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:21.634+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-01-28T11:48:21.652+0530] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-01-28T11:48:21.664+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:21.663+0530] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-01-28T11:48:21.678+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:21.678+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-01-28T11:48:21.680+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:21.680+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-01-28T11:48:21.681+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:21.681+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-01-28T11:48:21.686+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:21.686+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-01-28T11:48:21.689+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:21.689+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-01-28T11:48:21.689+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:21.689+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-01-28T11:48:21.703+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.090 seconds
+[2025-01-28T11:49:13.588+0530] {processor.py:186} INFO - Started process (PID=19370) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-01-28T11:49:13.600+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-01-28T11:49:13.602+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:13.602+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-01-28T11:49:13.619+0530] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-01-28T11:49:13.629+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:13.629+0530] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-01-28T11:49:13.643+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:13.642+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-01-28T11:49:13.645+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:13.645+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-01-28T11:49:13.645+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:13.645+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-01-28T11:49:13.650+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:13.649+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-01-28T11:49:13.653+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:13.653+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-01-28T11:49:13.653+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:13.653+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-01-28T11:49:13.664+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.081 seconds
+[2025-01-28T11:50:03.115+0530] {processor.py:186} INFO - Started process (PID=19673) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-01-28T11:50:03.116+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-01-28T11:50:03.118+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:03.118+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-01-28T11:50:03.135+0530] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-01-28T11:50:03.145+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:03.145+0530] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-01-28T11:50:03.158+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:03.158+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-01-28T11:50:03.160+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:03.160+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-01-28T11:50:03.161+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:03.161+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-01-28T11:50:03.165+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:03.165+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-01-28T11:50:03.168+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:03.168+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-01-28T11:50:03.168+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:03.168+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-01-28T11:50:03.177+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.066 seconds
+[2025-01-28T11:50:52.433+0530] {processor.py:186} INFO - Started process (PID=19831) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-01-28T11:50:52.444+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-01-28T11:50:52.448+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:52.447+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-01-28T11:50:52.464+0530] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-01-28T11:50:52.475+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:52.474+0530] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-01-28T11:50:52.487+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:52.487+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-01-28T11:50:52.490+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:52.489+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-01-28T11:50:52.490+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:52.490+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-01-28T11:50:52.495+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:52.495+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-01-28T11:50:52.498+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:52.498+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-01-28T11:50:52.498+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:52.498+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-01-28T11:50:52.507+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.079 seconds
+[2025-01-28T11:51:44.195+0530] {processor.py:186} INFO - Started process (PID=20019) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-01-28T11:51:44.207+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-01-28T11:51:44.210+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:44.210+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-01-28T11:51:44.227+0530] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-01-28T11:51:44.237+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:44.237+0530] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-01-28T11:51:44.250+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:44.250+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-01-28T11:51:44.252+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:44.252+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-01-28T11:51:44.253+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:44.253+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-01-28T11:51:44.257+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:44.257+0530] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-01-28T11:51:44.260+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:44.259+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-01-28T11:51:44.260+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:44.260+0530] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-01-28T11:51:44.268+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.078 seconds

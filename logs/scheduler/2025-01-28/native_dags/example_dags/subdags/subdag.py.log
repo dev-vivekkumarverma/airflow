@@ -1,0 +1,80 @@
+[2025-01-28T11:39:13.988+0530] {processor.py:186} INFO - Started process (PID=16961) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:39:13.994+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-01-28T11:39:13.995+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:13.995+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:39:13.998+0530] {processor.py:927} WARNING - No viable dags retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:39:14.007+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2025-01-28T11:40:14.667+0530] {processor.py:186} INFO - Started process (PID=17266) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:40:14.680+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-01-28T11:40:14.682+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:14.681+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:40:14.683+0530] {processor.py:927} WARNING - No viable dags retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:40:14.691+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.029 seconds
+[2025-01-28T11:40:44.899+0530] {processor.py:186} INFO - Started process (PID=17335) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:40:44.912+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-01-28T11:40:44.914+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:44.913+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:40:44.915+0530] {processor.py:927} WARNING - No viable dags retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:40:44.924+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.029 seconds
+[2025-01-28T11:41:34.290+0530] {processor.py:186} INFO - Started process (PID=17492) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:41:34.294+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-01-28T11:41:34.297+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:34.297+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:41:34.299+0530] {processor.py:927} WARNING - No viable dags retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:41:34.306+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2025-01-28T11:42:26.981+0530] {processor.py:186} INFO - Started process (PID=17678) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:42:26.993+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-01-28T11:42:26.995+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:26.995+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:42:26.997+0530] {processor.py:927} WARNING - No viable dags retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:42:27.005+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.029 seconds
+[2025-01-28T11:43:17.658+0530] {processor.py:186} INFO - Started process (PID=17835) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:43:17.670+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-01-28T11:43:17.673+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:17.672+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:43:17.674+0530] {processor.py:927} WARNING - No viable dags retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:43:17.682+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.029 seconds
+[2025-01-28T11:44:08.444+0530] {processor.py:186} INFO - Started process (PID=17935) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:44:08.445+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-01-28T11:44:08.446+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:08.446+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:44:08.448+0530] {processor.py:927} WARNING - No viable dags retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:44:08.456+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.017 seconds
+[2025-01-28T11:44:59.098+0530] {processor.py:186} INFO - Started process (PID=18168) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:44:59.110+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-01-28T11:44:59.112+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:59.112+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:44:59.114+0530] {processor.py:927} WARNING - No viable dags retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:44:59.125+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.032 seconds
+[2025-01-28T11:45:54.614+0530] {processor.py:186} INFO - Started process (PID=18347) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:45:54.626+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-01-28T11:45:54.628+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:54.628+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:45:54.630+0530] {processor.py:927} WARNING - No viable dags retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:45:54.638+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.033 seconds
+[2025-01-28T11:46:48.051+0530] {processor.py:186} INFO - Started process (PID=18562) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:46:48.052+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-01-28T11:46:48.054+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:48.053+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:46:48.055+0530] {processor.py:927} WARNING - No viable dags retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:46:48.063+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.017 seconds
+[2025-01-28T11:47:38.635+0530] {processor.py:186} INFO - Started process (PID=18900) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:47:38.641+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-01-28T11:47:38.643+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:38.642+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:47:38.644+0530] {processor.py:927} WARNING - No viable dags retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:47:38.652+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2025-01-28T11:48:31.907+0530] {processor.py:186} INFO - Started process (PID=19119) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:48:31.920+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-01-28T11:48:31.923+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:31.923+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:48:31.925+0530] {processor.py:927} WARNING - No viable dags retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:48:31.933+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.031 seconds
+[2025-01-28T11:49:23.729+0530] {processor.py:186} INFO - Started process (PID=19442) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:49:23.742+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-01-28T11:49:23.744+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:23.743+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:49:23.745+0530] {processor.py:927} WARNING - No viable dags retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:49:23.753+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.029 seconds
+[2025-01-28T11:50:11.954+0530] {processor.py:186} INFO - Started process (PID=19752) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:50:11.967+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-01-28T11:50:11.969+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:11.969+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:50:11.971+0530] {processor.py:927} WARNING - No viable dags retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:50:11.979+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.029 seconds
+[2025-01-28T11:51:03.369+0530] {processor.py:186} INFO - Started process (PID=19850) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:51:03.381+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-01-28T11:51:03.383+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:03.383+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:51:03.385+0530] {processor.py:927} WARNING - No viable dags retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:51:03.394+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.031 seconds
+[2025-01-28T11:51:53.355+0530] {processor.py:186} INFO - Started process (PID=20240) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:51:53.356+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-01-28T11:51:53.358+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:53.358+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:51:53.360+0530] {processor.py:927} WARNING - No viable dags retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-01-28T11:51:53.368+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds

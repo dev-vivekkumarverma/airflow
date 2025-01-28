@@ -1,0 +1,85 @@
+[2025-01-28T11:40:06.227+0530] {processor.py:186} INFO - Started process (PID=17178) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-01-28T11:40:06.228+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-01-28T11:40:06.230+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:06.229+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-01-28T11:40:06.238+0530] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-01-28T11:40:06.337+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:06.336+0530] {override.py:1912} INFO - Created Permission View: can read on DAG:example_branch_labels
+[2025-01-28T11:40:06.345+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:06.344+0530] {override.py:1912} INFO - Created Permission View: can edit on DAG:example_branch_labels
+[2025-01-28T11:40:06.350+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:06.350+0530] {override.py:1912} INFO - Created Permission View: can delete on DAG:example_branch_labels
+[2025-01-28T11:40:06.358+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:06.357+0530] {override.py:1912} INFO - Created Permission View: can read on DAG Run:example_branch_labels
+[2025-01-28T11:40:06.364+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:06.364+0530] {override.py:1912} INFO - Created Permission View: can delete on DAG Run:example_branch_labels
+[2025-01-28T11:40:06.369+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:06.369+0530] {override.py:1912} INFO - Created Permission View: menu access on DAG Run:example_branch_labels
+[2025-01-28T11:40:06.374+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:06.373+0530] {override.py:1912} INFO - Created Permission View: can create on DAG Run:example_branch_labels
+[2025-01-28T11:40:06.374+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:06.374+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:40:06.383+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:06.383+0530] {dag.py:3262} INFO - Creating ORM DAG for example_branch_labels
+[2025-01-28T11:40:06.389+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:06.389+0530] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:40:06.403+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.181 seconds
+[2025-01-28T11:41:03.447+0530] {processor.py:186} INFO - Started process (PID=17371) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-01-28T11:41:03.459+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-01-28T11:41:03.462+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:03.461+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-01-28T11:41:03.470+0530] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-01-28T11:41:03.481+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:03.481+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:41:03.495+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:03.495+0530] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:41:03.509+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.067 seconds
+[2025-01-28T11:41:58.866+0530] {processor.py:186} INFO - Started process (PID=17546) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-01-28T11:41:58.878+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-01-28T11:41:58.881+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:58.880+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-01-28T11:41:58.889+0530] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-01-28T11:41:58.902+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:58.902+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:41:58.916+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:58.916+0530] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:41:58.932+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.070 seconds
+[2025-01-28T11:43:14.577+0530] {processor.py:186} INFO - Started process (PID=17827) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-01-28T11:43:14.589+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-01-28T11:43:14.591+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:14.591+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-01-28T11:43:14.599+0530] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-01-28T11:43:14.611+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:14.611+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:43:14.625+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:14.625+0530] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:43:14.638+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.066 seconds
+[2025-01-28T11:44:29.847+0530] {processor.py:186} INFO - Started process (PID=18094) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-01-28T11:44:29.859+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-01-28T11:44:29.861+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:29.861+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-01-28T11:44:29.869+0530] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-01-28T11:44:29.881+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:29.881+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:44:29.895+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:29.895+0530] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:44:29.909+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.066 seconds
+[2025-01-28T11:45:47.599+0530] {processor.py:186} INFO - Started process (PID=18335) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-01-28T11:45:47.612+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-01-28T11:45:47.615+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:47.615+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-01-28T11:45:47.624+0530] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-01-28T11:45:47.638+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:47.638+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:45:47.655+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:47.655+0530] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:45:47.671+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.080 seconds
+[2025-01-28T11:46:44.985+0530] {processor.py:186} INFO - Started process (PID=18558) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-01-28T11:46:44.997+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-01-28T11:46:45.000+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:44.999+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-01-28T11:46:45.007+0530] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-01-28T11:46:45.019+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:45.019+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:46:45.034+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:45.033+0530] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:46:45.047+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.067 seconds
+[2025-01-28T11:48:02.694+0530] {processor.py:186} INFO - Started process (PID=18952) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-01-28T11:48:02.706+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-01-28T11:48:02.709+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:02.708+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-01-28T11:48:02.717+0530] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-01-28T11:48:02.728+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:02.728+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:48:02.742+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:02.742+0530] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:48:02.755+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.066 seconds
+[2025-01-28T11:49:20.461+0530] {processor.py:186} INFO - Started process (PID=19438) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-01-28T11:49:20.461+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-01-28T11:49:20.463+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:20.463+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-01-28T11:49:20.471+0530] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-01-28T11:49:20.483+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:20.482+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:49:20.497+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:20.496+0530] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:49:20.522+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.066 seconds
+[2025-01-28T11:50:32.521+0530] {processor.py:186} INFO - Started process (PID=19794) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-01-28T11:50:32.522+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-01-28T11:50:32.524+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:32.524+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-01-28T11:50:32.532+0530] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-01-28T11:50:32.543+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:32.543+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:50:32.557+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:32.557+0530] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:50:32.570+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.054 seconds
+[2025-01-28T11:51:26.509+0530] {processor.py:186} INFO - Started process (PID=19972) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-01-28T11:51:26.510+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-01-28T11:51:26.513+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:26.513+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-01-28T11:51:26.525+0530] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-01-28T11:51:26.544+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:26.544+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:51:26.568+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:26.568+0530] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:51:26.590+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.088 seconds

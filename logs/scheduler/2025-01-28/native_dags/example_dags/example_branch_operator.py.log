@@ -1,0 +1,78 @@
+[2025-01-28T11:40:13.952+0530] {processor.py:186} INFO - Started process (PID=17264) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-01-28T11:40:13.953+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-01-28T11:40:13.955+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:13.955+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-01-28T11:40:13.973+0530] {processor.py:925} INFO - DAG(s) 'example_branch_operator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-01-28T11:40:14.085+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:14.085+0530] {override.py:1912} INFO - Created Permission View: can read on DAG:example_branch_operator
+[2025-01-28T11:40:14.093+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:14.092+0530] {override.py:1912} INFO - Created Permission View: can edit on DAG:example_branch_operator
+[2025-01-28T11:40:14.098+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:14.098+0530] {override.py:1912} INFO - Created Permission View: can delete on DAG:example_branch_operator
+[2025-01-28T11:40:14.106+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:14.105+0530] {override.py:1912} INFO - Created Permission View: can read on DAG Run:example_branch_operator
+[2025-01-28T11:40:14.112+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:14.111+0530] {override.py:1912} INFO - Created Permission View: can delete on DAG Run:example_branch_operator
+[2025-01-28T11:40:14.117+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:14.116+0530] {override.py:1912} INFO - Created Permission View: menu access on DAG Run:example_branch_operator
+[2025-01-28T11:40:14.122+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:14.121+0530] {override.py:1912} INFO - Created Permission View: can create on DAG Run:example_branch_operator
+[2025-01-28T11:40:14.122+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:14.122+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:40:14.131+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:14.131+0530] {dag.py:3262} INFO - Creating ORM DAG for example_branch_operator
+[2025-01-28T11:40:14.137+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:14.137+0530] {dag.py:4180} INFO - Setting next_dagrun for example_branch_operator to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:40:14.150+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.203 seconds
+[2025-01-28T11:41:09.727+0530] {processor.py:186} INFO - Started process (PID=17407) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-01-28T11:41:09.740+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-01-28T11:41:09.742+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:09.741+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-01-28T11:41:09.760+0530] {processor.py:925} INFO - DAG(s) 'example_branch_operator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-01-28T11:41:09.775+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:09.775+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:41:09.789+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:09.789+0530] {dag.py:4180} INFO - Setting next_dagrun for example_branch_operator to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:41:09.802+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.080 seconds
+[2025-01-28T11:42:26.719+0530] {processor.py:186} INFO - Started process (PID=17677) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-01-28T11:42:26.732+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-01-28T11:42:26.734+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:26.734+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-01-28T11:42:26.752+0530] {processor.py:925} INFO - DAG(s) 'example_branch_operator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-01-28T11:42:26.768+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:26.768+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:42:26.782+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:26.782+0530] {dag.py:4180} INFO - Setting next_dagrun for example_branch_operator to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:42:26.796+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.082 seconds
+[2025-01-28T11:43:42.573+0530] {processor.py:186} INFO - Started process (PID=17887) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-01-28T11:43:42.586+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-01-28T11:43:42.588+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:42.588+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-01-28T11:43:42.606+0530] {processor.py:925} INFO - DAG(s) 'example_branch_operator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-01-28T11:43:42.621+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:42.621+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:43:42.636+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:42.636+0530] {dag.py:4180} INFO - Setting next_dagrun for example_branch_operator to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:43:42.650+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.081 seconds
+[2025-01-28T11:44:57.858+0530] {processor.py:186} INFO - Started process (PID=18167) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-01-28T11:44:57.871+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-01-28T11:44:57.877+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:57.875+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-01-28T11:44:57.899+0530] {processor.py:925} INFO - DAG(s) 'example_branch_operator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-01-28T11:44:57.919+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:57.918+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:44:57.940+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:57.939+0530] {dag.py:4180} INFO - Setting next_dagrun for example_branch_operator to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:44:57.956+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.105 seconds
+[2025-01-28T11:46:20.051+0530] {processor.py:186} INFO - Started process (PID=18459) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-01-28T11:46:20.063+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-01-28T11:46:20.065+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:20.065+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-01-28T11:46:20.092+0530] {processor.py:925} INFO - DAG(s) 'example_branch_operator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-01-28T11:46:20.111+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:20.111+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:46:20.130+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:20.130+0530] {dag.py:4180} INFO - Setting next_dagrun for example_branch_operator to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:46:20.149+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.103 seconds
+[2025-01-28T11:47:37.501+0530] {processor.py:186} INFO - Started process (PID=18899) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-01-28T11:47:37.513+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-01-28T11:47:37.516+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:37.515+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-01-28T11:47:37.533+0530] {processor.py:925} INFO - DAG(s) 'example_branch_operator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-01-28T11:47:37.549+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:37.548+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:47:37.563+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:37.563+0530] {dag.py:4180} INFO - Setting next_dagrun for example_branch_operator to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:47:37.580+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.083 seconds
+[2025-01-28T11:48:57.712+0530] {processor.py:186} INFO - Started process (PID=19292) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-01-28T11:48:57.713+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-01-28T11:48:57.715+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:57.715+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-01-28T11:48:57.738+0530] {processor.py:925} INFO - DAG(s) 'example_branch_operator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-01-28T11:48:57.754+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:57.754+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:48:57.769+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:57.768+0530] {dag.py:4180} INFO - Setting next_dagrun for example_branch_operator to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:48:57.787+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.080 seconds
+[2025-01-28T11:50:10.820+0530] {processor.py:186} INFO - Started process (PID=19747) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-01-28T11:50:10.832+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-01-28T11:50:10.834+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:10.834+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-01-28T11:50:10.852+0530] {processor.py:925} INFO - DAG(s) 'example_branch_operator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-01-28T11:50:10.868+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:10.868+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:50:10.882+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:10.881+0530] {dag.py:4180} INFO - Setting next_dagrun for example_branch_operator to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:50:10.898+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.082 seconds
+[2025-01-28T11:51:27.644+0530] {processor.py:186} INFO - Started process (PID=19976) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-01-28T11:51:27.658+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-01-28T11:51:27.661+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:27.660+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-01-28T11:51:27.681+0530] {processor.py:925} INFO - DAG(s) 'example_branch_operator' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-01-28T11:51:27.698+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:27.698+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:51:27.713+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:27.713+0530] {dag.py:4180} INFO - Setting next_dagrun for example_branch_operator to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-28T11:51:27.731+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.092 seconds

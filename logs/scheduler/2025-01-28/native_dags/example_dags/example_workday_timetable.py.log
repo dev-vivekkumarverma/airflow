@@ -1,0 +1,113 @@
+[2025-01-28T11:39:23.952+0530] {processor.py:186} INFO - Started process (PID=17105) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-01-28T11:39:23.952+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2025-01-28T11:39:23.955+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:23.954+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-01-28T11:39:23.960+0530] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-01-28T11:39:24.074+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:24.073+0530] {override.py:1912} INFO - Created Permission View: can read on DAG:example_workday_timetable
+[2025-01-28T11:39:24.081+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:24.080+0530] {override.py:1912} INFO - Created Permission View: can edit on DAG:example_workday_timetable
+[2025-01-28T11:39:24.086+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:24.086+0530] {override.py:1912} INFO - Created Permission View: can delete on DAG:example_workday_timetable
+[2025-01-28T11:39:24.094+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:24.093+0530] {override.py:1912} INFO - Created Permission View: can read on DAG Run:example_workday_timetable
+[2025-01-28T11:39:24.099+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:24.098+0530] {override.py:1912} INFO - Created Permission View: can delete on DAG Run:example_workday_timetable
+[2025-01-28T11:39:24.104+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:24.103+0530] {override.py:1912} INFO - Created Permission View: menu access on DAG Run:example_workday_timetable
+[2025-01-28T11:39:24.110+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:24.109+0530] {override.py:1912} INFO - Created Permission View: can create on DAG Run:example_workday_timetable
+[2025-01-28T11:39:24.110+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:24.110+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:39:24.119+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:24.118+0530] {dag.py:3262} INFO - Creating ORM DAG for example_workday_timetable
+[2025-01-28T11:39:24.173+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:24.173+0530] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2025-01-28T11:39:24.186+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py took 0.239 seconds
+[2025-01-28T11:40:23.486+0530] {processor.py:186} INFO - Started process (PID=17294) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-01-28T11:40:23.487+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2025-01-28T11:40:23.489+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:23.489+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-01-28T11:40:23.494+0530] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-01-28T11:40:23.506+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:23.506+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:40:23.547+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:23.547+0530] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2025-01-28T11:40:23.563+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py took 0.081 seconds
+[2025-01-28T11:41:17.185+0530] {processor.py:186} INFO - Started process (PID=17456) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-01-28T11:41:17.197+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2025-01-28T11:41:17.200+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:17.199+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-01-28T11:41:17.205+0530] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-01-28T11:41:17.216+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:17.216+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:41:17.252+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:17.252+0530] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2025-01-28T11:41:17.269+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py took 0.089 seconds
+[2025-01-28T11:42:07.867+0530] {processor.py:186} INFO - Started process (PID=17581) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-01-28T11:42:07.879+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2025-01-28T11:42:07.882+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:07.882+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-01-28T11:42:07.887+0530] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-01-28T11:42:07.898+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:07.898+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:42:07.939+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:07.939+0530] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2025-01-28T11:42:07.954+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py took 0.091 seconds
+[2025-01-28T11:43:01.102+0530] {processor.py:186} INFO - Started process (PID=17739) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-01-28T11:43:01.104+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2025-01-28T11:43:01.105+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:01.105+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-01-28T11:43:01.110+0530] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-01-28T11:43:01.121+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:01.121+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:43:01.157+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:01.157+0530] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2025-01-28T11:43:01.172+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py took 0.074 seconds
+[2025-01-28T11:43:51.571+0530] {processor.py:186} INFO - Started process (PID=17900) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-01-28T11:43:51.583+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2025-01-28T11:43:51.585+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:51.585+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-01-28T11:43:51.591+0530] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-01-28T11:43:51.602+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:51.602+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:43:51.646+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:51.646+0530] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2025-01-28T11:43:51.663+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py took 0.097 seconds
+[2025-01-28T11:44:42.282+0530] {processor.py:186} INFO - Started process (PID=18131) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-01-28T11:44:42.295+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2025-01-28T11:44:42.297+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:42.297+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-01-28T11:44:42.302+0530] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-01-28T11:44:42.314+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:42.314+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:44:42.349+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:42.349+0530] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2025-01-28T11:44:42.367+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py took 0.090 seconds
+[2025-01-28T11:45:35.631+0530] {processor.py:186} INFO - Started process (PID=18310) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-01-28T11:45:35.644+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2025-01-28T11:45:35.646+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:35.646+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-01-28T11:45:35.653+0530] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-01-28T11:45:35.668+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:35.667+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:45:35.714+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:35.713+0530] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2025-01-28T11:45:35.729+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py took 0.103 seconds
+[2025-01-28T11:46:29.612+0530] {processor.py:186} INFO - Started process (PID=18471) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-01-28T11:46:29.624+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2025-01-28T11:46:29.626+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:29.626+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-01-28T11:46:29.631+0530] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-01-28T11:46:29.643+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:29.642+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:46:29.679+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:29.679+0530] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2025-01-28T11:46:29.698+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py took 0.090 seconds
+[2025-01-28T11:47:20.909+0530] {processor.py:186} INFO - Started process (PID=18809) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-01-28T11:47:20.921+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2025-01-28T11:47:20.924+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:20.924+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-01-28T11:47:20.929+0530] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-01-28T11:47:20.941+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:20.941+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:47:20.977+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:20.977+0530] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2025-01-28T11:47:21.006+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py took 0.102 seconds
+[2025-01-28T11:48:13.965+0530] {processor.py:186} INFO - Started process (PID=19082) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-01-28T11:48:13.977+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2025-01-28T11:48:13.979+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:13.979+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-01-28T11:48:13.984+0530] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-01-28T11:48:13.995+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:13.995+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:48:14.030+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:14.030+0530] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2025-01-28T11:48:14.043+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py took 0.083 seconds
+[2025-01-28T11:49:06.451+0530] {processor.py:186} INFO - Started process (PID=19302) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-01-28T11:49:06.452+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2025-01-28T11:49:06.454+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:06.454+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-01-28T11:49:06.460+0530] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-01-28T11:49:06.472+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:06.472+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:49:06.512+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:06.511+0530] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2025-01-28T11:49:06.527+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py took 0.081 seconds
+[2025-01-28T11:49:55.393+0530] {processor.py:186} INFO - Started process (PID=19656) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-01-28T11:49:55.405+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2025-01-28T11:49:55.407+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:55.406+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-01-28T11:49:55.412+0530] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-01-28T11:49:55.424+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:55.423+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:49:55.460+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:55.459+0530] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2025-01-28T11:49:55.476+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py took 0.088 seconds
+[2025-01-28T11:50:44.537+0530] {processor.py:186} INFO - Started process (PID=19815) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-01-28T11:50:44.549+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2025-01-28T11:50:44.551+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:44.550+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-01-28T11:50:44.556+0530] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-01-28T11:50:44.567+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:44.567+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:50:44.602+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:44.602+0530] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2025-01-28T11:50:44.622+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py took 0.090 seconds
+[2025-01-28T11:51:35.648+0530] {processor.py:186} INFO - Started process (PID=19997) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-01-28T11:51:35.660+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2025-01-28T11:51:35.662+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:35.662+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-01-28T11:51:35.668+0530] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-01-28T11:51:35.680+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:35.680+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T11:51:35.717+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:35.716+0530] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2025-01-28T11:51:35.730+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py took 0.087 seconds

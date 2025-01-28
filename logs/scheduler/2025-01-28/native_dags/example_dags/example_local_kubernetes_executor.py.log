@@ -1,0 +1,165 @@
+[2025-01-28T11:39:43.731+0530] {processor.py:186} INFO - Started process (PID=17141) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-01-28T11:39:43.732+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2025-01-28T11:39:43.735+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:43.734+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-01-28T11:39:43.737+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:43.737+0530] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2025-01-28T11:39:43.738+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:39:43.738+0530] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2025-01-28T11:39:43.738+0530] {processor.py:927} WARNING - No viable dags retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-01-28T11:39:43.746+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.021 seconds
+[2025-01-28T11:40:42.910+0530] {processor.py:186} INFO - Started process (PID=17333) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-01-28T11:40:42.922+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2025-01-28T11:40:42.925+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:42.924+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-01-28T11:40:42.927+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:42.927+0530] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2025-01-28T11:40:42.928+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:40:42.928+0530] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2025-01-28T11:40:42.928+0530] {processor.py:927} WARNING - No viable dags retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-01-28T11:40:42.935+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.030 seconds
+[2025-01-28T11:41:37.459+0530] {processor.py:186} INFO - Started process (PID=17495) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-01-28T11:41:37.471+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2025-01-28T11:41:37.474+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:37.473+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-01-28T11:41:37.476+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:37.476+0530] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2025-01-28T11:41:37.477+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:41:37.476+0530] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2025-01-28T11:41:37.477+0530] {processor.py:927} WARNING - No viable dags retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-01-28T11:41:37.484+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.030 seconds
+[2025-01-28T11:42:34.128+0530] {processor.py:186} INFO - Started process (PID=17690) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-01-28T11:42:34.141+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2025-01-28T11:42:34.143+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:34.142+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-01-28T11:42:34.145+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:34.145+0530] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2025-01-28T11:42:34.146+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:42:34.146+0530] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2025-01-28T11:42:34.146+0530] {processor.py:927} WARNING - No viable dags retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-01-28T11:42:34.153+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.030 seconds
+[2025-01-28T11:43:25.557+0530] {processor.py:186} INFO - Started process (PID=17849) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-01-28T11:43:25.558+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2025-01-28T11:43:25.560+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:25.559+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-01-28T11:43:25.562+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:25.562+0530] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2025-01-28T11:43:25.562+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:43:25.562+0530] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2025-01-28T11:43:25.563+0530] {processor.py:927} WARNING - No viable dags retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-01-28T11:43:25.570+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.018 seconds
+[2025-01-28T11:44:14.731+0530] {processor.py:186} INFO - Started process (PID=18006) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-01-28T11:44:14.744+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2025-01-28T11:44:14.746+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:14.746+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-01-28T11:44:14.748+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:14.748+0530] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2025-01-28T11:44:14.749+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:44:14.749+0530] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2025-01-28T11:44:14.749+0530] {processor.py:927} WARNING - No viable dags retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-01-28T11:44:14.756+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.030 seconds
+[2025-01-28T11:45:05.651+0530] {processor.py:186} INFO - Started process (PID=18184) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-01-28T11:45:05.663+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2025-01-28T11:45:05.664+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:05.664+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-01-28T11:45:05.667+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:05.666+0530] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2025-01-28T11:45:05.667+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:45:05.667+0530] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2025-01-28T11:45:05.667+0530] {processor.py:927} WARNING - No viable dags retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-01-28T11:45:05.679+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.033 seconds
+[2025-01-28T11:46:01.477+0530] {processor.py:186} INFO - Started process (PID=18361) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-01-28T11:46:01.489+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2025-01-28T11:46:01.496+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:01.496+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-01-28T11:46:01.499+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:01.499+0530] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2025-01-28T11:46:01.500+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:01.499+0530] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2025-01-28T11:46:01.500+0530] {processor.py:927} WARNING - No viable dags retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-01-28T11:46:01.509+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.040 seconds
+[2025-01-28T11:46:54.137+0530] {processor.py:186} INFO - Started process (PID=18569) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-01-28T11:46:54.138+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2025-01-28T11:46:54.141+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:54.140+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-01-28T11:46:54.143+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:54.143+0530] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2025-01-28T11:46:54.143+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:46:54.143+0530] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2025-01-28T11:46:54.144+0530] {processor.py:927} WARNING - No viable dags retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-01-28T11:46:54.151+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.018 seconds
+[2025-01-28T11:47:45.530+0530] {processor.py:186} INFO - Started process (PID=18916) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-01-28T11:47:45.542+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2025-01-28T11:47:45.544+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:45.544+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-01-28T11:47:45.547+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:45.546+0530] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2025-01-28T11:47:45.547+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:47:45.547+0530] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2025-01-28T11:47:45.547+0530] {processor.py:927} WARNING - No viable dags retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-01-28T11:47:45.555+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.030 seconds
+[2025-01-28T11:48:39.318+0530] {processor.py:186} INFO - Started process (PID=19133) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-01-28T11:48:39.331+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2025-01-28T11:48:39.333+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:39.333+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-01-28T11:48:39.336+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:39.335+0530] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2025-01-28T11:48:39.336+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:48:39.336+0530] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2025-01-28T11:48:39.336+0530] {processor.py:927} WARNING - No viable dags retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-01-28T11:48:39.344+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.031 seconds
+[2025-01-28T11:49:30.818+0530] {processor.py:186} INFO - Started process (PID=19449) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-01-28T11:49:30.830+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2025-01-28T11:49:30.832+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:30.832+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-01-28T11:49:30.835+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:30.834+0530] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2025-01-28T11:49:30.835+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:49:30.835+0530] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2025-01-28T11:49:30.835+0530] {processor.py:927} WARNING - No viable dags retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-01-28T11:49:30.843+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.030 seconds
+[2025-01-28T11:50:17.903+0530] {processor.py:186} INFO - Started process (PID=19767) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-01-28T11:50:17.915+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2025-01-28T11:50:17.918+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:17.917+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-01-28T11:50:17.920+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:17.920+0530] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2025-01-28T11:50:17.920+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:50:17.920+0530] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2025-01-28T11:50:17.921+0530] {processor.py:927} WARNING - No viable dags retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-01-28T11:50:17.928+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.030 seconds
+[2025-01-28T11:51:09.837+0530] {processor.py:186} INFO - Started process (PID=19891) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-01-28T11:51:09.838+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2025-01-28T11:51:09.840+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:09.840+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-01-28T11:51:09.843+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:09.842+0530] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2025-01-28T11:51:09.843+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:51:09.843+0530] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2025-01-28T11:51:09.843+0530] {processor.py:927} WARNING - No viable dags retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-01-28T11:51:09.852+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.021 seconds
+[2025-01-28T11:52:00.762+0530] {processor.py:186} INFO - Started process (PID=20322) to work on /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-01-28T11:52:00.774+0530] {processor.py:914} INFO - Processing file /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2025-01-28T11:52:00.777+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:52:00.776+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-01-28T11:52:00.780+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:52:00.779+0530] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2025-01-28T11:52:00.780+0530] {logging_mixin.py:190} INFO - [2025-01-28T11:52:00.780+0530] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2025-01-28T11:52:00.780+0530] {processor.py:927} WARNING - No viable dags retrieved from /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-01-28T11:52:00.788+0530] {processor.py:208} INFO - Processing /home/verma-tv/.local/lib/python3.11/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.030 seconds
