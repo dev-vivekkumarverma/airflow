@@ -7,3 +7,6 @@
 
 # ignore all the logs of airflow
 logs*
+
+# ignore __pycache__
+__pycache__*
