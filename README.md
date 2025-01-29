@@ -14,8 +14,21 @@ https://www.youtube.com/watch?v=K9AnJ9_ZAXE&list=PLwFJcsJ61oujAqYpMp1kdUBcPG0sE0
 
 
 ## Installation on local environment
+1.  Specify the AIRFLOW_HOME dir 
+<br>
+For default behaviour  use 
 
-1.  try method A or B
+```sh
+export AIRFLOW_HOME=~/airflow
+```
+for using airflow in current directory use
+
+```sh
+export AIRFLOW_HOME=$(pwd)
+```
+
+
+2.  try method A or B
 <br>
 `method A`
 
@@ -39,19 +52,6 @@ Or, use
 ```sh
 # this installs the requirement for airflow specified in requirement.txt
 pip install -r requirements.txt
-```
-
-2.  Specify the AIRFLOW_HOME dir 
-<br>
-For default behaviour  use 
-
-```sh
-export AIRFLOW_HOME=~/airflow
-```
-for using airflow in current directory use
-
-```sh
-export AIRFLOW_HOME=.
 ```
 
 
