@@ -10,3 +10,13 @@ logs*
 
 # ignore __pycache__
 __pycache__*
+
+
+# airflow_db
+
+airflow.db
+
+airflow-webserver.pid
+airflow-webserver.out
+airflow-webserver.err
+airflow-webserver.logs
